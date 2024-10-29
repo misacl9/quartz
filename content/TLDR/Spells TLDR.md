@@ -9,6 +9,7 @@
 7. Conjure Celestial, Resurrection
 8. Holy Aura, Antimagic Field
 9. Gate, Mass Heal, Power Word Heal
+<!-- -->
 *Blaster Spells*
 1. Guiding Bolt
 2. Spiritual Weapon
@@ -19,6 +20,7 @@
 7. Fire Storm
 8. N/A
 9. N/A
+<!-- -->
 *Warrior Priest Spells*
 1. Inflict Wounds
 2. Spiritual Weapon
@@ -29,6 +31,7 @@
 7. Divine Word
 8. N/A
 9. N/A
+<!-- -->
 *Healer Spells*
 1. Cure Wounds
 2. Prayer of Healing
