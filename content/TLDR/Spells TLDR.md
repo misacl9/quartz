@@ -1,6 +1,25 @@
-<ol> Universal Spells
+**Clerics**
+<ol> *Universal Spells*
 <li> Bless, Healing Word </li>
 <li> Aid, Enhance Ability, Lesser Restoration </li>
+<li> Dispel Magic, Revivify </li>
+<li> Banishment, Death Ward </li>
+<li> Circle of Power, Raise Dead, Greater Restoration </li>
+<li> Heal, Heroes Feast </li>
+<li> Conjure Celestial, Resurrection </li>
+<li> Holy Aura, Antimagic Field </li>
+<li> Gate, Mass Heal, Power Word Heal </li>
+</ol>
+<ol> *Blaster Spells*
+<li> Bless, Healing Word </li>
+<li> Aid, Enhance Ability, Lesser Restoration </li>
+<li> Dispel Magic, Revivify </li>
+<li> Banishment, Death Ward </li>
+<li> Circle of Power, Raise Dead, Greater Restoration </li>
+<li> Heal, Heroes Feast </li>
+<li> Conjure Celestial, Resurrection </li>
+<li> Holy Aura, Antimagic Field </li>
+<li> Gate, Mass Heal, Power Word Heal </li>
 </ol>
 
 **Clerics**

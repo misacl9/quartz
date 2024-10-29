@@ -1,5 +1,5 @@
 <details>
-<summary>**Barbarian Paths**</summary>
+<summary> <b>Barbarian Paths</b></summary>
 
 - Berserker to unleash raw violence
 - Wild Heart to manifest kinship with animals
@@ -7,13 +7,16 @@
 - Zealot to rage in union with a god
 <details>
 <summary>XGtE</summary>
-	- Ancestral Guardian to call on the spirits to protect others
-	- Storm Herald to channel the primal magic of the storm
+
+- Ancestral Guardian to call on the spirits to protect others
+- Storm Herald to channel the primal magic of the storm
 </details>
 <details>
 <summary>TCoE</summary>
-- Beast to burst forth in rage, physically transforming
-- Wild Magic to manifest otherworldly magic
+<ul>
+<li>Beast to burst forth in rage, physically transforming</li>
+<li>Wild Magic to manifest otherworldly magic</li>
+</ul>
 </details>
 </details>
 
