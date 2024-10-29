@@ -1,3 +1,8 @@
+<ol> Universal Spells
+<li> Bless, Healing Word </li>
+<li> Aid, Enhance Ability, Lesser Restoration </li>
+</ol>
+
 **Clerics**
 *Universal Spells*
 1. Bless, Healing Word
