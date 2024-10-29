@@ -1,24 +1,23 @@
 <details>
-<summary> <h2>Barbarian Paths</h2></summary>
+<summary style="font-size: 1.5em;"> Barbarian Paths</summary>
 
 - Berserker to unleash raw violence
 - Wild Heart to manifest kinship with animals
 - World Tree to tap into cosmic vitality
 - Zealot to rage in union with a god
 <details>
-<summary><h3>XGtE</h3></summary>
+<summary style="font-size: 1.17em;">XGtE</summary>
 
 - Ancestral Guardian to call on the spirits to protect others
 - Storm Herald to channel the primal magic of the storm
 </details>
 <details>
-<summary><h3>TCoE</h3></summary>
+<summary style="font-size: 1.17em;">TCoE</summary>
 
 - Beast to burst forth in rage, physically transforming
 - Wild Magic to manifest otherworldly magic
 </details>
 </details>
-
 
 ### Bardic Colleges
 - Dance to harness agility in battle:
