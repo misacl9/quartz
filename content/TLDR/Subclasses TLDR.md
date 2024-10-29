@@ -13,10 +13,9 @@
 </details>
 <details>
 <summary>TCoE</summary>
-<ul>
-<li>Beast to burst forth in rage, physically transforming</li>
-<li>Wild Magic to manifest otherworldly magic</li>
-</ul>
+
+- Beast to burst forth in rage, physically transforming
+- Wild Magic to manifest otherworldly magic
 </details>
 </details>
 

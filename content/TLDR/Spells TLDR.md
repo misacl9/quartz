@@ -1,3 +1,12 @@
+<details>
+<summary> <i>Universal Spells</i></summary>
+
+1. Berserker to unleash raw violence
+2. Wild Heart to manifest kinship with animals
+3. World Tree to tap into cosmic vitality
+4. Zealot to rage in union with a god
+<details>
+
 **Clerics**
 <ol> *Universal Spells*
 <li> Bless, Healing Word </li>
