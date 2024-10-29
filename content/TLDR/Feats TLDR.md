@@ -23,9 +23,32 @@ Fighting Style Feats only matter to Fighter, Paladin, and Ranger and provide a b
 Epic boon feats are epic for a reason
 
 **Cleric**
-O: Alert, Magic Initiate (c), Healer, Tough
-G: Ritual Caster (*Find Familiar*), War Caster, Fey-Touched (*Spirit Guardians*), Speedy, Great Weapon Master, Heavy Armor Master, Spell Sniper
-E: Combat Prowess, Fate, Spell Recall, Fortitude
+<details>
+<summary> <i>Origin</i></summary>
+
+- Alert
+- Magic Initiate (c)
+- Healer
+- Tough
+</details>
+<details>
+<summary> <i>General</i></summary>
+
+- Ritual Caster (*Find Familiar*)
+- War Caster, Fey-Touched (*Spirit Guardians*)
+- Speedy
+- Great Weapon Master
+- Heavy Armor Master
+- Spell Sniper
+</details>
+<details>
+<summary> <i>Epic</i></summary>
+
+- Combat Prowess
+- Fate
+- Spell Recall
+- Fortitude
+</details>
 
 **Druid**
 O: Lucky, Magic Initiate (d), Healer, Tough

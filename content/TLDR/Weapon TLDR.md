@@ -55,9 +55,7 @@ Light Crossbow -> use Shortbow for no loading or Longbow for slow
 Heavy Crossbow -> unique
 Shortsword -> use Rapier for finesse, or Handaxe for Vex
 Light Hammer -> use Dagger for everything
-
-
-
+<-- -->
 A bunch of other rankings I made to help me make above rankings
 **Reach**
 Lance > Glaive > Halberd > Pike >Whip

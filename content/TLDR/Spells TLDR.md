@@ -1,38 +1,7 @@
+**Clerics**
 <details>
 <summary> <i>Universal Spells</i></summary>
 
-1. Berserker to unleash raw violence
-2. Wild Heart to manifest kinship with animals
-3. World Tree to tap into cosmic vitality
-4. Zealot to rage in union with a god
-<details>
-
-**Clerics**
-<ol> *Universal Spells*
-<li> Bless, Healing Word </li>
-<li> Aid, Enhance Ability, Lesser Restoration </li>
-<li> Dispel Magic, Revivify </li>
-<li> Banishment, Death Ward </li>
-<li> Circle of Power, Raise Dead, Greater Restoration </li>
-<li> Heal, Heroes Feast </li>
-<li> Conjure Celestial, Resurrection </li>
-<li> Holy Aura, Antimagic Field </li>
-<li> Gate, Mass Heal, Power Word Heal </li>
-</ol>
-<ol> *Blaster Spells*
-<li> Bless, Healing Word </li>
-<li> Aid, Enhance Ability, Lesser Restoration </li>
-<li> Dispel Magic, Revivify </li>
-<li> Banishment, Death Ward </li>
-<li> Circle of Power, Raise Dead, Greater Restoration </li>
-<li> Heal, Heroes Feast </li>
-<li> Conjure Celestial, Resurrection </li>
-<li> Holy Aura, Antimagic Field </li>
-<li> Gate, Mass Heal, Power Word Heal </li>
-</ol>
-
-**Clerics**
-*Universal Spells*
 1. Bless, Healing Word
 2. Aid, Enhance Ability, Lesser Restoration
 3. Dispel Magic, Revivify
@@ -42,8 +11,10 @@
 7. Conjure Celestial, Resurrection
 8. Holy Aura, Antimagic Field
 9. Gate, Mass Heal, Power Word Heal
-<!-- -->
-*Blaster Spells*
+</details>
+<details>
+<summary> <i>Blaster Spells</i></summary>
+
 1. Guiding Bolt
 2. Spiritual Weapon
 3. Spirit Guardians
@@ -53,8 +24,10 @@
 7. Fire Storm
 8. N/A
 9. N/A
-<!-- -->
-*Warrior Priest Spells*
+</details>
+<details>
+<summary> <i>Warrior Priest Spells</i></summary>
+
 1. Inflict Wounds
 2. Spiritual Weapon
 3. Spirit Guardians
@@ -64,8 +37,10 @@
 7. Divine Word
 8. N/A
 9. N/A
-<!-- -->
-*Healer Spells*
+</details>
+<details>
+<summary> <i>Healer Spells</i></summary>
+
 1. Cure Wounds
 2. Prayer of Healing
 3. Aura of Vitality
@@ -75,6 +50,7 @@
 7. Power Word Fortify
 8. N/A
 9. N/A
+</details>
 
 **Wizards**
 *Universal Spells*
