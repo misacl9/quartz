@@ -35,7 +35,8 @@ Epic boon feats are epic for a reason
 <summary> <i>General</i></summary>
 
 - Ritual Caster (*Find Familiar*)
-- War Caster, Fey-Touched (*Spirit Guardians*)
+- War Caster
+- Fey-Touched (*Spirit Guardians*)
 - Speedy
 - Great Weapon Master
 - Heavy Armor Master
@@ -49,16 +50,31 @@ Epic boon feats are epic for a reason
 - Spell Recall
 - Fortitude
 </details>
-
 **Druid**
-O: Lucky, Magic Initiate (d), Healer, Tough
-G: 
-- Shapeshifter: Speedy
-- Healer: Inspiring Leader, Fey Touched
+<details>
+<summary> <i>Origin</i></summary>
+
+- Lucky
+- Magic Initiate (d)
+- Healer
+- Tough
+</details>
+<details>
+<summary> <i>General</i></summary>
+
+- Shapeshifter: Speedy, Durable, Sentinel
+- Healer: Inspiring Leader, Fey Touched, Chef
 - Summoner: War Caster, Resilient
 - Element: Elemental Adept, Telekinetic
-Elemental Adept*, Chef, Sentinel, Durable
-E: Recovery, Combat Prowess, Dimensional Travel, Fortitude
+</details>
+<details>
+<summary> <i>Epic</i></summary>
+
+- Recovery
+- Combat Prowess
+- Dimensional Travel
+- Fortitude
+</details>
 
 **Sorcerer**
 O: Magic Initiate* (*Goodberry, Find Familiar*), Skilled*, Tough
