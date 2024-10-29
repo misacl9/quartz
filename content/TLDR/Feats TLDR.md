@@ -50,6 +50,7 @@ Epic boon feats are epic for a reason
 - Spell Recall
 - Fortitude
 </details>
+
 **Druid**
 <details>
 <summary> <i>Origin</i></summary>
