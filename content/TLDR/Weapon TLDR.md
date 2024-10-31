@@ -56,7 +56,8 @@ THESE RANKINGS RADICALLY CHANGE DEPENDING ON WHAT YOUR FEATS ARE
 - Shortsword -> use Rapier for finesse, or Handaxe for Vex
 - Light Hammer -> use Dagger for everything
 
-<hr class="dashed">
+<hr>
+
 A bunch of other rankings I made to help me make above rankings
 **Reach**
 Lance > Glaive > Halberd > Pike >Whip
