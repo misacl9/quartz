@@ -26,7 +26,7 @@
 9. N/A
 </details>
 <details>
-<summary> <i>Warrior Priest Spells</i></summary>
+<summary> <i>Warrior Spells</i></summary>
 
 1. Inflict Wounds
 2. Spiritual Weapon
@@ -53,7 +53,9 @@
 </details>
 
 **Wizards**
-*Universal Spells*
+<details>
+<summary> <i>Universal Spells</i></summary>
+
 1. Mage Armor, Shield, Find Familiar, Magic Missile
 2. Invisibility, Misty Step
 3. Counterspell Summon Fey
@@ -63,7 +65,10 @@
 7. Teleport, Plane Shift
 8. Clone, Mind Blank
 9. Wish, Foresight
-*Blaster Spells*
+</details>
+<details>
+<summary> <i>Blaster Spells</i></summary>
+
 1. Chromatic Orb, Ice Knife, Witch Bolt
 2. Dragon's Breath, Flaming Sphere, Scorching Ray
 3. Fireball
@@ -73,7 +78,10 @@
 7. Prismatic Spray
 8. Incendiary Cloud
 9. Meteor Swarm
-*Controller Spells*
+</details>
+<details>
+<summary> <i>Controller Spells</i></summary>
+
 1. Tasha's Hideous Laughter, Sleep
 2. Web
 3. Hypnotic Pattern, Slow
@@ -83,7 +91,10 @@
 7. Reverse Gravity
 8. Maze
 9. Prismatic Wall
-*Support Spells*
+</details>
+<details>
+<summary> <i>Support Spells</i></summary>
+
 1. Fog, Cloud, Grease
 2. Enlarge/Reduce, Enhance Ability
 3. Haste, Fly
@@ -93,9 +104,20 @@
 7. Mordenkainen's Mansion
 8. Antimagic Field
 9. True Polymorph
+</details>
 
 **Bard**
-*Universal*
+<details>
+<summary> <i>Magical Secrets</i></summary>
+
+- Universal: Fireball, Contingency, Wish
+- Warrior: Shield, Misty Step, Haste, Conjure Minor Elementals
+- Supporter: Bless, Aura of Vitality, Fly, Revivify, Heal
+- Controllers: Counterspell, Banishment, Wall of Force
+</details>
+<details>
+<summary> <i>Universal Spells</i></summary>
+
 1. Disguise Self, Speak With Animals
 2. N/A
 3. Major Image
@@ -105,7 +127,10 @@
 7. Teleport
 8. Glibness
 9. N/A
-*Warrior*
+</details>
+<details>
+<summary> <i>Warrior Spells</i></summary>
+
 1. Color Spray, Command
 2. Cloud of Daggers, Invisibility
 3. Fear
@@ -115,17 +140,10 @@
 7. Morenkainen's Sword
 8. Power Word Stun
 9. Foresight
-*Supporter*
-1. Faerie Fire, Healing Word
-2. Aid, Enhance Ability, Lesser Restoration
-3. Dispel Magic
-4. Greater Invisibility, Polymorph
-5. Greater Restoration, Raise Dead
-6. Heroes' Feast
-7. Power Word Fortify, Resurrection
-8. Mind Blank
-9. True Polymorph
-*Controller*
+</details>
+<details>
+<summary> <i>Controller Spells</i></summary>
+
 1. Dissonant Whispers, Hideous Laughter, Sleep
 2. Heat Metal, Enlarge/Reduce, Suggestion
 3. Hypnotic Pattern, Slow
@@ -135,14 +153,25 @@
 7. Prismatic Spray
 8. Dominate Monster
 9. Prismatic Wall
-*Magical Secrets*
-- Universal: Fireball, Contingency, Wish
-- Warrior: Shield, Misty Step, Haste, Conjure Minor Elementals
-- Supporter: Bless, Aura of Vitality, Fly, Revivify, Heal
-- Controllers: Counterspell, Banishment, Wall of Force
+</details>
+<details>
+<summary> <i>Support Spells</i></summary>
+
+1. Faerie Fire, Healing Word
+2. Aid, Enhance Ability, Lesser Restoration
+3. Dispel Magic
+4. Greater Invisibility, Polymorph
+5. Greater Restoration, Raise Dead
+6. Heroes' Feast
+7. Power Word Fortify, Resurrection
+8. Mind Blank
+9. True Polymorph
+</details>
 
 **Druid**
-*Universal*
+<details>
+<summary> <i>Universal Spells</i></summary>
+
 1. Entangle, Faerie Fire
 2. Barkskin, Pass without Trace
 3. N/A
@@ -152,17 +181,10 @@
 7. Reverse Gravity
 8. Control Weather, Earthquake, Incendiary Cloud, Sunburst, Tsunami
 9. Foresight, Shapechange, True Ressurection
-*Healer*
-1. Goodberry, Healing Word
-2. Aid, Enhance Ability, Lesser Restoration
-3. Aura of Vitality, Dispel Magic
-4. Polymorph
-5. Greater Restoration, Reincarnate
-6. Heal, Heroes' Feast
-7. Regenerate
-8. N/A
-9. N/A
-*Elementalist*
+</details>
+<details>
+<summary> <i>Elemental Spells</i></summary>
+
 1. Ice Knife, Thunderwave
 2. Flaming Sphere, Heat Metal, Spike Growth
 3. Call Lightning, Sleet Storm
@@ -172,17 +194,10 @@
 7. Fire Storm
 8. N/A
 9. N/A
-*Summoner*
-1. N/A
-2. Summon Beast
-3. Summon Fey
-4. Giant Insect, Summon Elemental
-5. Conjure Elemental
-6. Conjure Fey
-7. N/A
-8. N/A
-9. N/A
-*Shapeshifter*
+</details>
+<details>
+<summary> <i>Shapeshifter Spells</i></summary>
+
 1. N/A
 2. Moonbeam
 3. Conjure Animals
@@ -192,3 +207,30 @@
 7. N/A
 8. N/A
 9. N/A
+</details>
+<details>
+<summary> <i>Summoner Spells</i></summary>
+
+1. N/A
+2. Summon Beast
+3. Summon Fey
+4. Giant Insect, Summon Elemental
+5. Conjure Elemental
+6. Conjure Fey
+7. N/A
+8. N/A
+9. N/A
+</details>
+<details>
+<summary> <i>Healer Spells</i></summary>
+
+1. Goodberry, Healing Word
+2. Aid, Enhance Ability, Lesser Restoration
+3. Aura of Vitality, Dispel Magic
+4. Polymorph
+5. Greater Restoration, Reincarnate
+6. Heal, Heroes' Feast
+7. Regenerate
+8. N/A
+9. N/A
+</details>

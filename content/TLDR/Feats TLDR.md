@@ -22,6 +22,47 @@ Fighting Style Feats only matter to Fighter, Paladin, and Ranger and provide a b
 
 Epic boon feats are epic for a reason
 
+**Barbarian**
+<details>
+<summary> <i>Origin</i></summary>
+
+- Tough
+- Savage Attacker
+</details>
+<details>
+<summary> <i>General</i></summary>
+
+- Universal: Athlete, Crusher, Charger, Durable, Speedy
+- Two-handed: Great Weapon Master, Polearm Master
+- Dual Wielder: Dual Wielder, Defensive Duelist
+- Shield bearer: Shield Master, Sentinel
+</details>
+<details>
+<summary> <i>Epic</i></summary>
+
+</details>
+
+**Bard**
+<details>
+<summary> <i>Origin</i></summary>
+
+- Skilled
+- Musician
+- Lucky
+- Healer
+</details>
+<details>
+<summary> <i>General</i></summary>
+
+- Universal: War Caster, Inspiring Leader, Resilient
+- Warrior: Weapon Master, Defensive Dualist
+- Controller or Supporter: Actor, Skill Expert, Telepathic, Telekinetic
+</details>
+<details>
+<summary> <i>Epic</i></summary>
+
+</details>
+
 **Cleric**
 <details>
 <summary> <i>Origin</i></summary>
@@ -77,59 +118,153 @@ Epic boon feats are epic for a reason
 - Fortitude
 </details>
 
-**Sorcerer**
-O: Magic Initiate* (*Goodberry, Find Familiar*), Skilled*, Tough
-G: Mage Slayer, Spell Sniper, War Caster, Fey-Touched, Shadow-Touched, Resilient, Skill Expert, 
-E: Dimensional Travel, Energy Resistance, Spell Recall
-
-**Warlock**
-O: Lucky, Magic Initiate*, Skilled*, Savage Attacker (*Pact of the Blade*)
-G: Spell Sniper, Skulker, Elemental Adept*, Weapon Master, 
-E: Fate, Dimensional Travel, Night Spirit, Combat Prowess
-
-**Ranger**
-O: Alert, Magic Initiate*, Skilled
-G: *Archery, Two-Weapon Fighting* Defensive Duelist, Piercer, Speedy, Sharpshooter
-E: Combat Prowess, Dimensional Travel, Skill
-
 **Fighter**
-O:
+<details>
+<summary> <i>Origin</i></summary>
+
 - Shield Bearer OR Two-handed: Savage Attacker, Tough
 - Archer OR Dual Wielder: Savage Attacker, Skilled, Alert, Magic Initiate (d)
-G:
+</details>
+<details>
+<summary> <i>General</i></summary>
+
 - Two-handed: *Great Weapon Fighting*, Great Weapon Master, Polearm Master
 - Archer: *Archery*, Sharpshooter, Crossbow expert, Skulker, Speedy
 - Shield Bearer: *Protection, Defense*, Sentinel, Shield Master, Heavy Armor Master
 - Dual Wielder: *Two-weapon Fighting*, Dual Wielder, Charger, Defensive Duelist
-E:
+</details>
+<details>
+<summary> <i>Epic</i></summary>
+
+
+</details>
+
+**Ranger**
+<details>
+<summary> <i>Origin</i></summary>
+
+- Alert
+- Magic Initiate*
+- Skilled
+</details>
+<details>
+<summary> <i>General</i></summary>
+
+- *Archery*
+- *Two-Weapon Fighting*
+- Defensive Duelist
+- Piercer
+- Speedy
+- Sharpshooter
+</details>
+<details>
+<summary> <i>Epic</i></summary>
+
+- Combat Prowess
+- Dimensional Travel
+- Skill
+</details>
 
 **Rouge**
-O: Alert, Skilled, Lucky, Savage Attacker, Magic Initiate (d)
-G:
+<details>
+<summary> <i>Origin</i></summary>
+
+- Alert
+- Skilled
+- Lucky
+- Savage Attacker
+- Magic Initiate (d)
+</details>
+<details>
+<summary> <i>General</i></summary>
+
 - Universal: Skulker, Speedy
 - Sniper: Sharpshooter OR Crossbow Expert
 - Skirmisher: Defensive Dualist, Dual Wielder
 - Skill Monkey: Actor, Keen Mind, Skill Expert
-E:
+</details>
+<details>
+<summary> <i>Epic</i></summary>
 
-**Barbarian**
-O: Tough, Savage Attacker
-G:
-- Universal: Athlete, Crusher, Charger, Durable, Speedy
-- Two-handed: Great Weapon Master, Polearm Master
-- Dual Wielder: Dual Wielder, Defensive Duelist
-- Shield bearer: Shield Master, Sentinel
-E:
 
-**Bard**
-O: Skilled, Musician, Lucky, Healer
-G:
-- Universal: War Caster, Inspiring Leader, Resilient
-- Warrior: Weapon Master, Defensive Dualist
-- Controller or Supporter: Actor, Skill Expert, Telepathic, Telekinetic
-E:
+</details>
+
+**Sorcerer**
+<details>
+<summary> <i>Origin</i></summary>
+
+- Magic Initiate* (*Goodberry, Find Familiar*)
+- Skilled*
+- Tough
+</details>
+<details>
+<summary> <i>General</i></summary>
+
+- Mage Slayer
+- Spell Sniper
+- War Caster
+- Fey-Touched
+- Shadow-Touched
+- Resilient
+- Skill Expert
+</details>
+<details>
+<summary> <i>Epic</i></summary>
+
+- Dimensional Travel
+- Energy Resistance
+- Spell Recall
+</details>
+
+**Warlock**
+<details>
+<summary> <i>Origin</i></summary>
+
+- Lucky
+- Magic Initiate*
+- Skilled*
+- Savage Attacker (*Pact of the Blade*)
+</details>
+<details>
+<summary> <i>General</i></summary>
+
+- Spell Sniper
+- Skulker
+- Elemental Adept*
+- Weapon Master
+</details>
+<details>
+<summary> <i>Epic</i></summary>
+
+- Fate
+- Dimensional Travel
+- Night Spirit
+- Combat Prowess
+</details>
 
 **Wizard**
-O: Alert, Lucky, Magic Initiate (w)
-G: War Caster, Spell Sniper, Resilient, Elemental Adept, Skill Expert, Keen Mind, Telekinetic
-E:
+<details>
+<summary> <i>Origin</i></summary>
+
+- Alert
+- Lucky
+- Magic Initiate (w)
+</details>
+<details>
+<summary> <i>General</i></summary>
+
+- War Caster
+- Spell Sniper
+- Resilient
+- Elemental Adept
+- Skill Expert
+- Keen Mind
+- Telekinetic
+</details>
+<details>
+<summary> <i>Epic</i></summary>
+
+
+</details>
+
+*** Means you can repeat the feat
