@@ -9,35 +9,47 @@ Goethe (GUT - e) Manor
 #### Foyer
 Lady Martha (lust out of neglect)
 - Adjusted Specter 
-- Shadow minions CR 1/2 of a beautiful woman
+- High pitch, let's throw in french
+- Long frizzy red hair, dark green dress, elf
+Shadow minions CR 1/2 of a beautiful woman
 #### Dining Hall
 John II (gluttony)
 - Adjusted Giant Zombie 
-- Crawling Claw minions CR 0 passing along food
-- Ghoul minions CR 1 who are ravenous but prohibited
+- Deep, gruff voice with load laugh, speak like frog
+- greasy black hair, fat
+Crawling Claw minions CR 0 passing along food
+Ghoul minions CR 1 who are ravenous but prohibited
 
 
 ### Second Floor (CR 3)
 #### Servent Quarters
 Gretchen (envy desiring Martha's life and helping ruin her life)
 - Wight
-- Skeleton minions CR 1/4 who are servants
-- Zombie minions CR 1/4 who are servents
+- Medium breathy voice, sighing, bemoaning
+- Blond dwarven maid with a missing ear
+Skeleton (human, dwarves, gnomes) minions CR 1/4 who are servants
+Zombie (human, dwarves, gnomes) minions CR 1/4 who are servants
 #### Kitchen
 Valentine (wrath, saw how people mistreated Lady Martha and killed the family)
 - Wight
-- Gibbering Mouther CR 2 made up of all the rotting meat
+- I kind of just want to do shrek/scottish, hill goliath
+- Curly hair with athletic build and tend to talk sarcastic
+Gibbering Mouther CR 2 made up of all the rotting meat
 
 ### Third Floor (CR 4)
 
 #### Master Bedroom
 Lord John (greed of knowledge)
 - Adjusted Wraith
-- Hellhound minion CR 3
+- 
+- Slick combover, wide eyes
+Hellhound minion CR 3
 #### Library
 Wagner (no reason to go anywhere out of library sloth)
 - Mummy adjusted
-- Mimic Miniature minions CR 1
+- sing-song voice (either rhytmic or rising and lowering in pitch)
+- wrinkled clothes, unkept hair
+Mimic Miniature minions CR 1
 
 ### Family Chapel (CR 5)
 BBEG: Mephistopheles Devil Legate Adjusted CR
