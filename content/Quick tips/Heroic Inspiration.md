@@ -1,0 +1,1 @@
+Can only be used **before** DM calls result of [[D20 Test]]

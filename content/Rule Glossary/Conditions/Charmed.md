@@ -1,0 +1,1 @@
+Can't attack charmer and charmer has advantage on social [[Ability Checks|ability checks]].

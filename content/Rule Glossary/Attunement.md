@@ -1,0 +1,1 @@
+Unless specified attuning with a magic item consists of dedicating a short rest to familiarizing with it.

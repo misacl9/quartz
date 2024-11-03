@@ -1,0 +1,1 @@
+This is your defense value and represents the chance for an attack to hit. In order for an attack to hit it must be greater than your Armor Class

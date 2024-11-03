@@ -1,0 +1,1 @@
+A character may cast however many spells they like **as long as they only consume ONE spell slot per turn**

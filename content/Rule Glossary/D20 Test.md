@@ -1,0 +1,1 @@
+The most common roles in the game. Three main types, [[Ability Checks]] for non-combat interactions, [[Attack Roles]] for combat interactions, and [[Saving Throws]] for avoiding negative effects.
