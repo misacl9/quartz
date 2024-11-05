@@ -139,6 +139,31 @@ Epic boon feats are epic for a reason
 
 </details>
 
+**Monk**
+<details>
+<summary> <i>Origin</i></summary>
+
+- Magic Initiate (D)
+- Tavern Brawler
+- Skilled
+- Lucky
+</details>
+<details>
+<summary> <i>General</i></summary>
+
+- Crusher
+- Weapon Master
+- Grappler
+- Athlete
+- Speedy
+- Skulker
+</details>
+<details>
+<summary> <i>Epic</i></summary>
+
+
+</details>
+
 **Ranger**
 <details>
 <summary> <i>Origin</i></summary>
@@ -267,4 +292,4 @@ Epic boon feats are epic for a reason
 
 </details>
 
-*** Means you can repeat the feat
+- * Means you can repeat the feat
