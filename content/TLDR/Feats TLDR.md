@@ -164,6 +164,30 @@ Epic boon feats are epic for a reason
 
 </details>
 
+**Paladin**
+<details>
+<summary> <i>Origin</i></summary>
+
+- Tough
+- Savage Attacker
+- Skilled
+- Performer
+- Lucky
+</details>
+<details>
+<summary> <i>General</i></summary>
+
+- Universal: Inspiring Leader, War Caster, Resilient
+- Two-handed: Great Weapon Master
+- Shield Bearer: Sentinel, Shield Master, Heavy Armor Master
+- Dual Wielder: Dual Wielder, Charger, Defensive Duelist
+</details>
+<details>
+<summary> <i>Epic</i></summary>
+
+
+</details>
+
 **Ranger**
 <details>
 <summary> <i>Origin</i></summary>
@@ -171,16 +195,15 @@ Epic boon feats are epic for a reason
 - Alert
 - Magic Initiate*
 - Skilled
+- Savage Attacker
+- Lucky
 </details>
 <details>
 <summary> <i>General</i></summary>
 
-- *Archery*
-- *Two-Weapon Fighting*
-- Defensive Duelist
-- Piercer
-- Speedy
-- Sharpshooter
+- Universal: Skulker, Speedy, Fey Touched, Shadow Touched, Piercer
+- Dual Wielder: *Two-Weapon Fighting*, Defensive Duelist, Dual Wielder
+- Archer: *Archery*, Sharpshooter, Crossbow expert
 </details>
 <details>
 <summary> <i>Epic</i></summary>

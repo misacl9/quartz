@@ -1,3 +1,4 @@
+
 <details>
 <summary style="font-size: 1.5em;"> Barbarian Paths</summary>
 

@@ -1,110 +1,3 @@
-**Clerics**
-<details>
-<summary> <i>Universal Spells</i></summary>
-
-1. Bless, Healing Word
-2. Aid, Enhance Ability, Lesser Restoration
-3. Dispel Magic, Revivify
-4. Banishment, Death Ward
-5. Circle of Power, Raise Dead, Greater Restoration
-6. Heal, Heroes Feast
-7. Conjure Celestial, Resurrection
-8. Holy Aura, Antimagic Field
-9. Gate, Mass Heal, Power Word Heal
-</details>
-<details>
-<summary> <i>Blaster Spells</i></summary>
-
-1. Guiding Bolt
-2. Spiritual Weapon
-3. Spirit Guardians
-4. N/A
-5. Flame Strike
-6. Sunbeam
-7. Fire Storm
-8. N/A
-9. N/A
-</details>
-<details>
-<summary> <i>Warrior Spells</i></summary>
-
-1. Inflict Wounds
-2. Spiritual Weapon
-3. Spirit Guardians
-4. N/A
-5. Summon Celestial
-6. Blade Barrier
-7. Divine Word
-8. N/A
-9. N/A
-</details>
-<details>
-<summary> <i>Healer Spells</i></summary>
-
-1. Cure Wounds
-2. Prayer of Healing
-3. Aura of Vitality
-4. N/A
-5. Mass Cure Wounds
-6. N/A
-7. Power Word Fortify
-8. N/A
-9. N/A
-</details>
-
-**Wizards**
-<details>
-<summary> <i>Universal Spells</i></summary>
-
-1. Mage Armor, Shield, Find Familiar, Magic Missile
-2. Invisibility, Misty Step
-3. Counterspell Summon Fey
-4. Dimension Door
-5. Animate Objects, Telekinesis, Telepathic Bond
-6. Contingency, Tasha's Bubbling Cauldron
-7. Teleport, Plane Shift
-8. Clone, Mind Blank
-9. Wish, Foresight
-</details>
-<details>
-<summary> <i>Blaster Spells</i></summary>
-
-1. Chromatic Orb, Ice Knife, Witch Bolt
-2. Dragon's Breath, Flaming Sphere, Scorching Ray
-3. Fireball
-4. Ice Storm, Wall of Fire
-5. Cloudkill, Cone of Cold
-6. Chain, Lightning, Disintegrate, Sunbeam
-7. Prismatic Spray
-8. Incendiary Cloud
-9. Meteor Swarm
-</details>
-<details>
-<summary> <i>Controller Spells</i></summary>
-
-1. Tasha's Hideous Laughter, Sleep
-2. Web
-3. Hypnotic Pattern, Slow
-4. Banishment, Evard's Black Tentatcles
-5. Synaptic Static, Wall of Force
-6. Eyebite, Mass Suggestion
-7. Reverse Gravity
-8. Maze
-9. Prismatic Wall
-</details>
-<details>
-<summary> <i>Support Spells</i></summary>
-
-1. Fog, Cloud, Grease
-2. Enlarge/Reduce, Enhance Ability
-3. Haste, Fly
-4. Greater Invisibility, Polymorph
-5. Circle of Power, Seeming
-6. Glove of Invulnerability, True Seeing
-7. Mordenkainen's Mansion
-8. Antimagic Field
-9. True Polymorph
-</details>
 
 **Bard**
 <details>
@@ -166,6 +59,60 @@
 7. Power Word Fortify, Resurrection
 8. Mind Blank
 9. True Polymorph
+</details>
+
+**Clerics**
+<details>
+<summary> <i>Universal Spells</i></summary>
+
+1. Bless, Healing Word
+2. Aid, Enhance Ability, Lesser Restoration
+3. Dispel Magic, Revivify
+4. Banishment, Death Ward
+5. Circle of Power, Raise Dead, Greater Restoration
+6. Heal, Heroes Feast
+7. Conjure Celestial, Resurrection
+8. Holy Aura, Antimagic Field
+9. Gate, Mass Heal, Power Word Heal
+</details>
+<details>
+<summary> <i>Blaster Spells</i></summary>
+
+1. Guiding Bolt
+2. Spiritual Weapon
+3. Spirit Guardians
+4. N/A
+5. Flame Strike
+6. Sunbeam
+7. Fire Storm
+8. N/A
+9. N/A
+</details>
+<details>
+<summary> <i>Warrior Spells</i></summary>
+
+1. Inflict Wounds
+2. Spiritual Weapon
+3. Spirit Guardians
+4. N/A
+5. Summon Celestial
+6. Blade Barrier
+7. Divine Word
+8. N/A
+9. N/A
+</details>
+<details>
+<summary> <i>Healer Spells</i></summary>
+
+1. Cure Wounds
+2. Prayer of Healing
+3. Aura of Vitality
+4. N/A
+5. Mass Cure Wounds
+6. N/A
+7. Power Word Fortify
+8. N/A
+9. N/A
 </details>
 
 **Druid**
@@ -233,4 +180,80 @@
 7. Regenerate
 8. N/A
 9. N/A
+</details>
+
+**Paladin**
+<details>
+<summary> <i>Universal Spells</i></summary>
+
+1. Bless, Divine Favor, Thunderous Smite
+2. Aid, Lesser Restoration, Magic Weapon, Zone of Truth
+3. Aura of Vitality, Blinding Smite, Crusader's Mantel, Dispel Magic, Revivify
+4. Banishment, Staggering Smite
+5. Banishing Smite, Circle of Power, Destruction Wave, Summon Celestial
+</details>
+
+**Ranger**
+<details>
+<summary> <i>Universal Spells</i></summary>
+
+1. Entangle/Ensnaring Strike, Hail of Thorns, Goodberry, Speak with Animals
+2. Aid, Enhance Ability, Pass without Trace, Spike Growth, Summon Beast
+3. Conjure Animals, Conjure Barrage, Revivify, Summon Fey
+4. Conjure Woodland Beings, Summon Elemental
+5. Conjure Volley, Steel Wind Strike, Swift Quiver
+</details>
+
+**Wizards**
+<details>
+<summary> <i>Universal Spells</i></summary>
+
+1. Mage Armor, Shield, Find Familiar, Magic Missile
+2. Invisibility, Misty Step
+3. Counterspell Summon Fey
+4. Dimension Door
+5. Animate Objects, Telekinesis, Telepathic Bond
+6. Contingency, Tasha's Bubbling Cauldron
+7. Teleport, Plane Shift
+8. Clone, Mind Blank
+9. Wish, Foresight
+</details>
+<details>
+<summary> <i>Blaster Spells</i></summary>
+
+1. Chromatic Orb, Ice Knife, Witch Bolt
+2. Dragon's Breath, Flaming Sphere, Scorching Ray
+3. Fireball
+4. Ice Storm, Wall of Fire
+5. Cloudkill, Cone of Cold
+6. Chain, Lightning, Disintegrate, Sunbeam
+7. Prismatic Spray
+8. Incendiary Cloud
+9. Meteor Swarm
+</details>
+<details>
+<summary> <i>Controller Spells</i></summary>
+
+1. Tasha's Hideous Laughter, Sleep
+2. Web
+3. Hypnotic Pattern, Slow
+4. Banishment, Evard's Black Tentatcles
+5. Synaptic Static, Wall of Force
+6. Eyebite, Mass Suggestion
+7. Reverse Gravity
+8. Maze
+9. Prismatic Wall
+</details>
+<details>
+<summary> <i>Support Spells</i></summary>
+
+1. Fog, Cloud, Grease
+2. Enlarge/Reduce, Enhance Ability
+3. Haste, Fly
+4. Greater Invisibility, Polymorph
+5. Circle of Power, Seeming
+6. Glove of Invulnerability, True Seeing
+7. Mordenkainen's Mansion
+8. Antimagic Field
+9. True Polymorph
 </details>
