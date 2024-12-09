@@ -244,17 +244,22 @@ Epic boon feats are epic for a reason
 - Magic Initiate* (*Goodberry, Find Familiar*)
 - Skilled*
 - Tough
+- Lucky
 </details>
 <details>
 <summary> <i>General</i></summary>
 
+- War Caster
 - Mage Slayer
 - Spell Sniper
-- War Caster
 - Fey-Touched
 - Shadow-Touched
 - Resilient
 - Skill Expert
+- Elemental Adept
+- Telekinetic
+- Telepathic
+- Inspiring Leader
 </details>
 <details>
 <summary> <i>Epic</i></summary>

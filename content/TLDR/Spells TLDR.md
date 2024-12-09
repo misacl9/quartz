@@ -204,6 +204,67 @@
 5. Conjure Volley, Steel Wind Strike, Swift Quiver
 </details>
 
+**Sorcerer**
+<details>
+<summary> <i>Metamagic</i></summary>
+
+- Blaster: Empower, Careful, Transmuted
+- Supporter: Subtle, Extended, Quicken
+- Controllers: Heighten, Quicken, Twinned
+</details>
+<details>
+<summary> <i>Universal Spells</i></summary>
+
+1. Mage Armor, Shield, Magic Missile
+2. Invisibility, Misty Step, Suggestion
+3. Counterspell
+4. Dimension Door
+5. Animate Objects, Bigby's Hand, Telekinesis
+6. N/A
+7. Teleport
+8. N/A
+9. N/A
+</details>
+<details>
+<summary> <i>Blaster Spells</i></summary>
+
+1. Chromatic Orb, Ice Knife, Witch Bolt
+2. Dragon's Breath, Scorching Ray
+3. Fireball
+4. Ice Storm, Wall of Fire
+5. Cloudkill, Cone of Cold
+6. Chain, Lightning, Disintegrate, Sunbeam
+7. Prismatic Spray
+8. Incendiary Cloud
+9. Meteor Swarm
+</details>
+<details>
+<summary> <i>Controller Spells</i></summary>
+
+1. Color Spray, Sleep
+2. Hold Person, Web
+3. Hypnotic Pattern, Slow
+4. Banishment
+5. Hold Monster, Synaptic Static
+6. Eyebite, Mass Suggestion
+7. Reverse Gravity
+8. Dominate Monster, Power Word Stun
+9. Time Stop
+</details>
+<details>
+<summary> <i>Support Spells</i></summary>
+
+1. Fog, Cloud, Grease
+2. Enlarge/Reduce, Enhance Ability
+3. Haste, Fly
+4. Greater Invisibility, Polymorph
+5. Seeming, Teleportation Circle
+6. Glove of Invulnerability, True Seeing
+7. Plane Shift
+8. Demiplane
+9. Time Stop
+</details>
+
 **Wizards**
 <details>
 <summary> <i>Universal Spells</i></summary>
