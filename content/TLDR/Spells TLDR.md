@@ -265,6 +265,55 @@
 9. Time Stop
 </details>
 
+**Warlock**
+<details>
+<summary> <i>Eldritch Invocation</i></summary>
+
+- Universal: Armor of Shadows, Mask of Many Faces, Devil's Sight
+- Blaster: Pact of the Chain, Agonizing Blast, Repelling Blast, Eldritch Spear
+- Controllers: Pact of the Tome, Eldritch Mind
+- Eldritch Warrior: Pact of the Blade, Thirsting Blade, Eldritch Smite, Devouring Blade
+</details>
+<details>
+<summary> <i>Universal Spells</i></summary>
+
+1. N/A
+2. Invisibility, Misty Step, Suggestion, Darkness
+3. Counterspell, Summon Fey
+4. Banishment, Dimension Door, Summon Aberration
+5. Hold Monster, Synaptic Static
+6. Eyebite, Summon Fiend, Tasha's Bubbling Cauldron
+7. Forcecage, Finger of Death
+8. Dominate Monster, Power Word Stun
+9. Foresight, True Polymorph
+</details>
+<details>
+<summary> <i>Blaster Spells</i></summary>
+
+1. Hex, Witch Bolt
+2. Cloud of Daggers
+3. Hunger of Hadar
+4. N/A
+5. N/A
+6. N/A
+7. N/A
+8. N/A
+9. N/A
+</details>
+<details>
+<summary> <i>Controller Spells</i></summary>
+
+1. Hideous Laughter, Bane
+2. Hold Person
+3. Hypnotic Pattern
+4. N/A
+5. N/A
+6. N/A
+7. N/A
+8. N/A
+9. N/A
+</details>
+
 **Wizards**
 <details>
 <summary> <i>Universal Spells</i></summary>

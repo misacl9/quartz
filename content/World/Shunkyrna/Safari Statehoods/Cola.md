@@ -1,0 +1,1 @@
+Major border town between Safari State and Neverwinter

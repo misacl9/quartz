@@ -1,0 +1,3 @@
+- Group of vanara (monkey folk) that act as mercenaries for hire
+	- viewed as social pariahs for working with Drake military\
+	- Used Guerilla tact's on Neverwinter troops to delay their aid to the Safari States

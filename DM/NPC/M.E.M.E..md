@@ -1,4 +1,4 @@
 mee - mee
 
-Meena Edna Mode Enida
+Meena Edna Mode Edina
 Ancient eccentric Gnome inventor

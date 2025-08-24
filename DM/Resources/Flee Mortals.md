@@ -1,0 +1,1 @@
+Angulotls are Grung, Kingfissure Worms are Purple Worms, Lightbenders are Displacer Beasts, Olothec are Aboleths, Overminds are Beholders, Goxomoc is the Terrasque, Time Raiders are Gith, Valok are (kinda) Golems, and Voiceless Talkers are Mind Flayers

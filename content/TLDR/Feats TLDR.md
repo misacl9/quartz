@@ -282,9 +282,11 @@ Epic boon feats are epic for a reason
 <summary> <i>General</i></summary>
 
 - Spell Sniper
+- War Caster
+- Resilient
 - Skulker
 - Elemental Adept*
-- Weapon Master
+- Weapon Master (or 1 lvl in Fighter)
 </details>
 <details>
 <summary> <i>Epic</i></summary>

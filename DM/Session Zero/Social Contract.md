@@ -1,0 +1,1 @@
+When engaging in imaginative play the DM understands that this may lead to covering topics that cause other's discomfort. As such, the DM vows to lead sessions that respects those person's preferences to avoid such topics.

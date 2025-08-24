@@ -1,0 +1,1 @@
+Gnome Barbarian, young adult (69), corporal

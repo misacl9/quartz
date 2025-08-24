@@ -29,6 +29,12 @@
 - *Defense*: Blade Ward
 - *Utility*: Mage Hand, Minor Illusion, Light, Mending
 
+**Warlock**
+- *Damage*: Eldritch Blast, True Strike, Toll the Dead
+- *Debuff*: Chill Touch, Mind Sliver
+- *Defense*: Blade Ward
+- *Utility*: Mage Hand, Minor Illusion
+
 **Wizards**
 - *Damage*: Acid Splash, Fire Bolt, True Strike
 - *Debuff*: Chill Touch, Mind Sliver, Ray of Frost, Shocking Grasp
