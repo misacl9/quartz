@@ -25,24 +25,6 @@ They would first visit a border town (Vanara and Leonin)
 - Leonin are more involved in governmental positions (enforcement, burecratic)
 - Vanara are in the rest (vendors, facilities)
 
-Market plazas have ropes overhead that the Vanara regularly cross
-- high quality merchants only deal with other well-balancers (typically sell fruits, cultural, and religious items AND INFORMATION)
-	- humans struggle to adapt
-	- gnomes invented rope ziplines
-
-Gnomes have settled a local forge
-- make weapons for Leonin
-- trinkets, street organs for Vanara
-
-Humans introduce academic spells, formalized education
-
-Amphitheaters
-
-Caravanserai
-- square building lined with archways with an open plaza within
-- place for loding
-
-
 Potential Characters
 - Zeb
 	- human tax collector
@@ -52,7 +34,7 @@ Potential Characters
 	- monkey folk vendor
 	- says umm a lot
 
-- Dante
+- Diego
 	- lion folk officer
 
 - Tillo (ty-lo) Otto Moda Edina
@@ -61,6 +43,8 @@ Potential Characters
 
 Potential sidequests
 - magical lake (stone giants)
-- magical lamp (tricky djin)
+- magical lamp (tricky genie)
 - civil unrest (Vanara Rights movement, Fur-Kin movement, Megafauna movement)
 	- I can add Hanuman God and Faunas God
+
+

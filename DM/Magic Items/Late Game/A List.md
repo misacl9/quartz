@@ -1,2 +1,0 @@
-[[Kerygma]]
-[[Skibidi Toi'le]]

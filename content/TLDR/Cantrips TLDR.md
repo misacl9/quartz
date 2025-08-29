@@ -15,7 +15,7 @@
 - *Utility*: Mage Hand, Minor Illusion, Light, Mending
 
 **Clerics**
-- *Damage*: Sacred Flame, Told of the Dead, OR Word of Radiance
+- *Damage*: Sacred Flame, Toll of the Dead, OR Word of Radiance
 - *Support*: Guidance, Resistance, OR Spare the Dying 
 - *Utility*: Thaumaturgy, Light, OR Mending 
 

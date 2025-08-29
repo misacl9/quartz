@@ -1,3 +1,17 @@
-Located at top of Mt. Dreadspire
+**Location**: at the top of Mt. Dreadspire
 
-Feature: Magical barrier that regulates temperature
+**Size**: cabin
+
+**Defining trait**: Surrounded by aura of warmth
+
+**Claim to fame**: Residence of Dirka
+
+**Current Calamity**: TBD
+
+**Local Leader**: Dirka
+
+**Noteworthy people**
+- Dirka
+- Yeti
+
+**Noteworthy places**
