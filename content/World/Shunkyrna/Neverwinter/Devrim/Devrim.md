@@ -18,7 +18,7 @@
 - Central Tree
 - Town hall
 - Inn
-![[content/images/devrim.png]]
+![[content/devrim.png]]
 
 ```leaflet  
 id: test_map
