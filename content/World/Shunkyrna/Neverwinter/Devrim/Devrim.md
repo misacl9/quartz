@@ -18,7 +18,7 @@
 - Central Tree
 - Town hall
 - Inn
-![[content/World/Shunkyrna/Neverwinter/Devrim/devrim.png]]
+![[content/images/devrim.png]]
 
 ```leaflet  
 id: test_map
