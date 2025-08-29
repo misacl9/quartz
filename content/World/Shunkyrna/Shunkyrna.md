@@ -1,4 +1,7 @@
 
+
+![[content/images/Shunkyerna.jpg]]
+
 ```leaflet  
 id: test_map
 image: Shunkyerna.jpg

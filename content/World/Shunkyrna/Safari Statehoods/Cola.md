@@ -19,6 +19,8 @@
 - The Manes
 - Faunis' Temple
 
+![[cola.png]]
+
 ```leaflet  
 id: test_map
 image: cola.png
