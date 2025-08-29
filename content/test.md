@@ -1,0 +1,1 @@
+![[content/images/devrim.png]]
