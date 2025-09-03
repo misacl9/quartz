@@ -23,20 +23,20 @@
 ### Eldritch Hybrid
 - "Other", an uncanny being, beyond the supernatural and magical
 
-| Class     | #1            | #2                 | #3                 |
-| --------- | ------------- | ------------------ | ------------------ |
-| Barbarian | Beast         | Wrathful Dead      | Spell Scorned      |
-| Bard      | Requeim       | Spirits            |                    |
-| Cleric    | Eldritch      | Twilight           |                    |
-| Druid     | Symbiote      | Spores             | Blood              |
-| Fighter   | Psi Warrior   | Living Crucible    | Rune Knight        |
-| Monk      | Leaden Crown  | Astral Self        | Regret             |
-| Paladin   | N/A           |                    |                    |
-| Ranger    | Swarmkeeper   | Monster Slayer     |                    |
-| Rogue     | Phantom       | Misfortune Bringer | Sanguine Thief     |
-| Sorcerer  | Aberrant Mind | Hungering Dark     | Wretched bloodline |
-| Warlock   | Fathomless    | Parasite           | Coven              |
-| Wizard    | Daemonologist | Order of Scribes   | Plague Doctor      |
+| Class     | #1            | #2                 | #3             |
+| --------- | ------------- | ------------------ | -------------- |
+| Barbarian | Beast         | Wrathful Dead      | Spell Scorned  |
+| Bard      | Requeim       | Spirits            |                |
+| Cleric    | Eldritch      | Twilight           |                |
+| Druid     | Symbiote      | Mutation           | Spores         |
+| Fighter   | Psi Warrior   | Living Crucible    | Rune Knight    |
+| Monk      | Leaden Crown  | Astral Self        | Regret         |
+| Paladin   | N/A           |                    |                |
+| Ranger    | Swarmkeeper   | Monster Slayer     |                |
+| Rogue     | Phantom       | Misfortune Bringer | Sanguine Thief |
+| Sorcerer  | Aberrant Mind | Hungering Dark     | Haunted        |
+| Warlock   | Fathomless    | Parasite           | Coven          |
+| Wizard    | Daemonologist | Order of Scribes   | Plague Doctor  |
 ### Radiant Fire
 - All cleansing fire that heals as much as it burns, seeking to renew the world
 
@@ -57,19 +57,19 @@
 ### Performative Flare
 - Flavorful and artful in their interactions both social and combat
 
-| Class     | #1             | #2                 | #3               |
-| --------- | -------------- | ------------------ | ---------------- |
-| Barbarian | Beast          | Wrathful Dead      | Storm Herald     |
-| Bard      | Glamour        | Eloquence          | Fools            |
-| Cleric    | Twilight       | Light              |                  |
-| Druid     | Wildfire       | Stars              |                  |
-| Fighter   | Gladiator      | Samurai            | Rune Knight      |
-| Monk      | Drunken Master | Sun Soul           | Astral Self      |
-| Paladin   | Zeal           | Devotion           | Glory            |
-| Ranger    | Swarmkeeper    | Fey Warderer       | Horizon Walker   |
-| Rogue     | Swashbuckler   | Misfortune Bringer | Phantom          |
-| Sorcerer  | Storm Sorcerer | Divine Soul        | Spellfire        |
-| Warlock   | Feline Court   | Archfey            | First Vampire    |
-| Wizard    | Bladesinging   | Illusionist        | Order of Scribes |
+| Class     | #1                 | #2                 | #3               |
+| --------- | ------------------ | ------------------ | ---------------- |
+| Barbarian | Beast              | Wrathful Dead      | Storm Herald     |
+| Bard      | Glamour            | Eloquence          | Fools            |
+| Cleric    | Twilight           | Light              |                  |
+| Druid     | Wildfire           | Stars              | Entropy          |
+| Fighter   | Gladiator          | Samurai            | Rune Knight      |
+| Monk      | Drunken Master     | Sun Soul           | Astral Self      |
+| Paladin   | Zeal               | Devotion           | Glory            |
+| Ranger    | Swarmkeeper        | Fey Warderer       | Horizon Walker   |
+| Rogue     | Swashbuckler       | Misfortune Bringer | Phantom          |
+| Sorcerer  | Wretched Bloodline | Storm Sorcerer     | Divine Soul      |
+| Warlock   | Feline Court       | Archfey            | First Vampire    |
+| Wizard    | Bladesinging       | Illusionist        | Order of Scribes |
 ## Multiclassing
 - Best Classes for dips: Fighter, Rogue, Paladin, Cleric, Warlock, 
