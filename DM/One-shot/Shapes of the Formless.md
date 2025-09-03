@@ -16,7 +16,7 @@
 | 1d20 | Encounter                                                             | Difficulty |
 | ---- | --------------------------------------------------------------------- | ---------- |
 | 1-14 | Nothing                                                               |            |
-| 15   | Indifferent Elephant, intimdates<br>to get out of territory           | 4          |
+| 15   | Indifferent Elephant, intimidates<br>to get out of territory          | 4          |
 | 16   | Hostile Giant Axe Beak, pursues                                       | 1          |
 | 17   | Three Hostile Tigers, pursues                                         | 5          |
 | 18   | Two Indifferent Giant Boars,<br>get out of way, won't pursue          | 3          |
@@ -39,7 +39,7 @@
 
 #### Within the temple
 - Refer to Dungeon Hideout map in app. B
-	- roll for 4 entrences
+	- roll for 4 entrances
 	- Artifact located in Northwest room
 - Encounter with **XP: 3,300**
 	- 5 Nothics spread around ruins

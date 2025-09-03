@@ -23,53 +23,53 @@
 ### Eldritch Hybrid
 - "Other", an uncanny being, beyond the supernatural and magical
 
-| Class     | Subclass           |
-| --------- | ------------------ |
-| Barbarian |                    |
-| Bard      |                    |
-| Cleric    | Apocalypse         |
-| Druid     |                    |
-| Fighter   | Psi Warrior        |
-| Monk      |                    |
-| Paladin   |                    |
-| Ranger    |                    |
-| Rogue     | Scion of the Three |
-| Sorcerer  | Aberrant Mind      |
-| Warlock   | Fathomless         |
-| Wizard    |                    |
+| Class     | #1            | #2                 | #3                 |
+| --------- | ------------- | ------------------ | ------------------ |
+| Barbarian | Beast         | Wrathful Dead      | Spell Scorned      |
+| Bard      | Requeim       | Spirits            |                    |
+| Cleric    | Eldritch      | Twilight           |                    |
+| Druid     | Symbiote      | Spores             | Blood              |
+| Fighter   | Psi Warrior   | Living Crucible    | Rune Knight        |
+| Monk      | Leaden Crown  | Astral Self        | Regret             |
+| Paladin   | N/A           |                    |                    |
+| Ranger    | Swarmkeeper   | Monster Slayer     |                    |
+| Rogue     | Phantom       | Misfortune Bringer | Sanguine Thief     |
+| Sorcerer  | Aberrant Mind | Hungering Dark     | Wretched bloodline |
+| Warlock   | Fathomless    | Parasite           | Coven              |
+| Wizard    | Daemonologist | Order of Scribes   | Plague Doctor      |
 ### Radiant Fire
 - All cleansing fire that heals as much as it burns, seeking to renew the world
 
-| Class     | Subclass    |
-| --------- | ----------- |
-| Barbarian |             |
-| Bard      |             |
-| Cleric    | Light       |
-| Druid     | Wildfire    |
-| Fighter   |             |
-| Monk      |             |
-| Paladin   |             |
-| Ranger    |             |
-| Rogue     |             |
-| Sorcerer  | Divine Soul |
-| Warlock   |             |
-| Wizard    |             |
+| Class     | #1        | #2           | #3    |
+| --------- | --------- | ------------ | ----- |
+| Barbarian | N/A       | Storm Herald |       |
+| Bard      | N/A       |              |       |
+| Cleric    | Light     | Purification | Forge |
+| Druid     | Wildfire  |              |       |
+| Fighter   | N/A       |              |       |
+| Monk      | Sun Soul  |              |       |
+| Paladin   | Zeal      | Devotion     | Glory |
+| Ranger    | N/A       |              |       |
+| Rogue     | N/A       |              |       |
+| Sorcerer  | Spellfire | Divine Soul  |       |
+| Warlock   | Celestial |              |       |
+| Wizard    | N/A       | Evocation    |       |
 ### Performative Flare
 - Flavorful and artful in their interactions both social and combat
 
-| Class     | Subclass       |
-| --------- | -------------- |
-| Barbarian |                |
-| Bard      | Glamour        |
-| Cleric    |                |
-| Druid     |                |
-| Fighter   | Gladiator      |
-| Monk      | Drunken Master |
-| Paladin   |                |
-| Ranger    |                |
-| Rogue     | Swashbuckler   |
-| Sorcerer  |                |
-| Warlock   |                |
-| Wizard    |                |
+| Class     | #1             | #2                 | #3               |
+| --------- | -------------- | ------------------ | ---------------- |
+| Barbarian | Beast          | Wrathful Dead      | Storm Herald     |
+| Bard      | Glamour        | Eloquence          | Fools            |
+| Cleric    | Twilight       | Light              |                  |
+| Druid     | Wildfire       | Stars              |                  |
+| Fighter   | Gladiator      | Samurai            | Rune Knight      |
+| Monk      | Drunken Master | Sun Soul           | Astral Self      |
+| Paladin   | Zeal           | Devotion           | Glory            |
+| Ranger    | Swarmkeeper    | Fey Warderer       | Horizon Walker   |
+| Rogue     | Swashbuckler   | Misfortune Bringer | Phantom          |
+| Sorcerer  | Storm Sorcerer | Divine Soul        | Spellfire        |
+| Warlock   | Feline Court   | Archfey            | First Vampire    |
+| Wizard    | Bladesinging   | Illusionist        | Order of Scribes |
 ## Multiclassing
 - Best Classes for dips: Fighter, Rogue, Paladin, Cleric, Warlock, 

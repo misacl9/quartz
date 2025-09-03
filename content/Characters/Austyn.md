@@ -1,5 +1,5 @@
 ### Description
-Loxodon [[Bard]], middle aged (, compassionate
+Loxodon Bard, middle aged (, mediator
 
 Trinket:
 Urn filled with the ashes of a hero

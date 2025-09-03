@@ -4,7 +4,7 @@
 
 **Defining trait**: Large salt water lake
 
-**Claim to fame**: Bass ale (fish fermentation)
+**Claim to fame**: B'ass ale (fish fermentation)
 
 **Current Calamity**: expanding cult of the Frostmaiden
 

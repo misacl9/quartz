@@ -1,5 +1,3 @@
-LOST BREATH ATTACK
-
 ### Description
 Dragonborn Rouge, teen (18), poet
 

@@ -10,4 +10,3 @@
 
 [D&D 5e Statblock Generator](https://tetra-cube.com/dnd/dnd-statblock.html)
 
-![[content/images/CharacterSheet2024-FormFillable.pdf|CharacterSheet2024-FormFillable]]

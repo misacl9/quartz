@@ -43,8 +43,9 @@ Potential Characters
 
 Potential sidequests
 - magical lake (stone giants)
-- magical lamp (tricky genie)
+- magical lamp (efreeti bottle magic item)
 - civil unrest (Vanara Rights movement, Fur-Kin movement, Megafauna movement)
 	- I can add Hanuman God and Faunas God
+	- Police force get decanter of water and dust of sneezing and chocking, chief gets beads of force
 
 
