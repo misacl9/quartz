@@ -25,7 +25,7 @@ They would first visit a border town (Vanara and Leonin)
 - Leonin are more involved in governmental positions (enforcement, burecratic)
 - Vanara are in the rest (vendors, facilities)
 
-Potential Characters
+## Potential Characters
 - Zeb
 	- human tax collector
 	- timid, scared of poop
@@ -41,11 +41,13 @@ Potential Characters
 	- Distant relative of the great M.E.M.E
 
 
-Potential sidequests
+## Potential sidequests
 - magical lake (stone giants)
 - magical lamp (efreeti bottle magic item)
 - civil unrest (Vanara Rights movement, Fur-Kin movement, Megafauna movement)
 	- I can add Hanuman God and Faunas God
 	- Police force get decanter of water and dust of sneezing and chocking, chief gets beads of force
+	- Police: 1 captain, 6 guards (mob), 1 veteran
+	- Terrorists: 1 captain, 5 bandits (mob), 1 mage apprentice
 
 

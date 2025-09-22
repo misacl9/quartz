@@ -1,26 +1,13 @@
-All origin are good and some are really good (speedy)
-
-General
-- A lot of neat spell granters
-- Crusher for bludgeoner
-- Inspiring Leader for Wis or Cha
-- Mage Slayer sadly not about slaying but ruining spells
-- Crossbow expert makes hand crossbow OP
-- Grappler perfect for monk
-- Dual Wielder + Nick seems interesting
-- Polearm Master makes spear and quarterstaff perfect and all reach weapons even better 
-- Sentinel opportunity attacks go brrr
-- Sharpshooter is ranged master race to melee console
-- Speedy for squishy guys who don't want to get caught
-- Spell Sniper means no one can escape your reach
-- Telekinetic better than arcane trickster mage hand??
-- Weapon Master requires knowing how to min max weapon mastery
-- Skulker good for stealth builds
-- Durable helps avoid dying if you can afford neglecting other areas
+All origin are good and some are really good
 
 Fighting Style Feats only matter to Fighter, Paladin, and Ranger and provide a balanced boost to they way you want to fight
 
 Epic boon feats are epic for a reason
+
+**General Ranking**
+
+
+
 
 **Barbarian**
 <details>

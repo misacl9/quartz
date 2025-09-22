@@ -1,7 +1,7 @@
 ### Description
-Deep Gnome Druid, TBD (), misquoting preacher
+Deep Gnome Druid,  middle aged (222), misquoting preacher
 
-Trinket:
+Trinket: Silver spoon with symbol of his cult on the handle
 
 
 Origin:
@@ -11,7 +11,7 @@ Origin:
 
 
 ### Personal Quest
-
+- Finding his colleague, who vanished on a quest for the holy grail.
 
 ### Backstory
-
+- Was sent off by his family to be a priest.

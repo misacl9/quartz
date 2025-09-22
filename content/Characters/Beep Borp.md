@@ -1,17 +1,16 @@
 ### Description
 Dragonborn Monk, young adult (22), Gen alpha
 
-Trinket:
+Trinket: A pair of old socks with dragon decals
 
-
-Origin:
+Origin: Grew up in the Alwayswinter temple
 
 
 ### Rank
 
 
 ### Personal Quest
-
+- TBD
 
 ### Backstory
-
+- Fascinated by dragons
