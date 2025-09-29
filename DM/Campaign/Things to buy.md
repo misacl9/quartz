@@ -27,6 +27,9 @@ rare - quest
 - Tiger eye - 10 gp
 
 **Art**
-- Ivory instrument - 750 gp
+- Ivory instrument (Mbira)- 750 gp
 - Gemstone animal figurines - 250 gp
 - Carved wooden masks - 25 gp
+
+**Alcohol**
+- fermented fruits (breadfruit, fig, mango, papaya)

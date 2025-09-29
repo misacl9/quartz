@@ -1,6 +1,12 @@
 ## BG3
 - Skill monkey bard: Rogue 1, Cleric 1, Bard 10, Lightfoot halfling, soldier background
 - Afterwards, great place to test other classes I want
+- Potential one dnd mod creators:
+	- firblo (class, species)
+	- MobTalon (spells, feats)
+	- chizfreak (class)
+	- jaov (backgrounds, weapon mastery)
+	- marisa50 (class)
 
 | Class     | Base                          | Mod              | Companions       |
 | --------- | ----------------------------- | ---------------- | ---------------- |

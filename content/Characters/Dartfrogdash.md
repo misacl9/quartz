@@ -4,7 +4,7 @@ Deep Gnome Druid,  middle aged (222), misquoting preacher
 Trinket: Silver spoon with symbol of his cult on the handle
 
 
-Origin:
+Origin: TBD
 
 
 ### Rank

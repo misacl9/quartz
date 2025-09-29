@@ -9,9 +9,11 @@
 **Current Calamity**: Political feuds between the citizens
 
 **Local Leader**: 
-
+- ???
 **Noteworthy people**
-- 
+- ???
+- ???
+- ???
 
 **Noteworthy places**
 - Hanging Markets

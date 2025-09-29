@@ -10,7 +10,7 @@ Origin: TBD
 
 
 ### Personal Quest
-- TBD
+- To kill his love rival Tem-Pest
 
 ### Backstory
-- TBD
+- Survived an elitist fighters ring and is searching for his lost love Cate
