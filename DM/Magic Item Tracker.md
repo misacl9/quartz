@@ -1,6 +1,6 @@
 **Owned magic items** (max 100)
 16 common
-1. 
+1. Handy Confectionary Pouch
 
 21 uncommon
 1. Sentinel Shield

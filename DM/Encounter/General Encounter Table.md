@@ -17,3 +17,12 @@
 | 4      | Needle Blights       |
 | 5      | Mountain lion (lion) |
 | 6      | Destination          |
+
+| Safari States |                   |
+| ------------- | ----------------- |
+| 1             | Efreeti Bottle    |
+| 2             | Traveling vendor  |
+| 3             | Dust storm        |
+| 4             | Werejackel        |
+| 5             | Bandit            |
+| 6             | Stone Giant Oasis |

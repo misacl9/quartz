@@ -5,10 +5,12 @@ Rarity (Very Rare)
 
 Requires [[Attunement|attunement]]
 
+You have a +1 bonus to attack and damage rolls made with this magic weapon.
+
 This magic weapon has 5 charges. Hosanna consumes 3 charges, Eschaton consumes 2 charges, and Samaritan consumes 1 charge.
 
 **Hosanna**
-150 ft by 5 ft line. [[Difficulty Class|DC]] 15 Dexterity saving throw, taking 3d6 thunder damage on a failed save, or half as much damage on a successful one.
+150 ft by 5 ft line. [[Difficulty Class|DC]] 15 Dexterity saving throw, taking 4d6 thunder damage on a failed save, or half as much damage on a successful one.
 
 **Eschaton**
 2d8 extra radiant damage.

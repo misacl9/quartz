@@ -37,9 +37,14 @@ They would first visit a border town (Vanara and Leonin)
 
 
 ## Potential sidequests
+
+Garret wants damaging longbow
+- Vicious longbow (kills rival)
+- Kerygma (shows rival mercy)
+
+Other ideas
 - magical lake (stone giants)
 - magical lamp (efreeti bottle magic item)
+- Bandit captain survived and the banana clan may recruit our adventurers to rescue him
 
 
-People want an SSPX group
-Garret wants magical longbow

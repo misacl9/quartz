@@ -20,7 +20,7 @@
 | **Istus**, Weaver of Our Fate         | Destiny, Order                       | Seers, advisers                 | threads                           | Mechanus                     |
 | Lolth,<br>Dark Mother                 | Spiders, abyss                       | Drow Elves, cultists            | Spider                            | Abyss                        |
 | **Mystra**, Lady Magic                | Magic, the weave, luck<br>evocation  | Spellcasters                    | Spindle                           | Outlands                     |
-| Obad-Hai, the Shalm                   | Homestead                            | Hunters, hermits, gatherers     | Oak leaf and acorn                | Outlands                     |
+| Obad-Hai, the Shalm                   | Homestead, Manifest Destiny          | Hunters, hermits, gatherers     | Oak leaf and acorn                | Outlands                     |
 | Olidammara, the Laughting Rogue       | Trickery, luck                       | Gamblers, pranksters            | Laughing mask                     | Ysgard                       |
 | **Pelor**, the <br>Radiant            | Light, music<br>healing, prophecy    | Seers, healers, bards           | Sun                               | Elysium                      |
 | Pholtus of the Blinding Light         | Law                                  | Judges, lawyers                 | Solar eclipse                     | Arcadia                      |

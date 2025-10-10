@@ -8,7 +8,7 @@ common - buy 100 gp
 - Potion of Healing 2d4
 - Potion of Comprehension
 
-uncommon - trade
+uncommon - trade/find
 - Gauntlets of Ogre Power
 - Broom of Flying
 - Hag Eye
@@ -17,7 +17,7 @@ uncommon - trade
 - Spell Scroll (Enlarge/Reduce, Counterspell, Mirror Image)
 
 rare - quest
-- Staff of Swarming Insects
+- longbow quest for Bowlda
 
 **Gems**
 - Fire opal - 1000 gp
