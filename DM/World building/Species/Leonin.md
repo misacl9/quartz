@@ -1,6 +1,6 @@
 Lion folk
 
-Standard military beurecrats
+Standard military, political leaders
 
 Appearance
 - Northern: pale gold fur, slender build, thick and dark mane

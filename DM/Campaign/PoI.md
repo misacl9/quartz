@@ -1,20 +1,11 @@
-Market plazas have ropes overhead that the Vanara regularly cross
-- high quality merchants only deal with other well-balancers (typically sell fruits, cultural, and religious items AND INFORMATION)
-	- humans struggle to adapt
-	- gnomes invented rope ziplines
+Portland style art district
 
-Gnomes have settled a local forge
-- make weapons for Leonin
-- trinkets, street organs for Vanara
+DC Senate and Congress 
 
-Humans introduce academic spells, formalized education
+Elite sky scrapers
 
-Amphitheaters
+National hospital
 
-Caravanserai
-- square building lined with archways with an open plaza within
-- place for loding
+National Library
 
-Safari style parks
-- red oat grass
-- scattered thorn trees
+Black Market

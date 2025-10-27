@@ -6,20 +6,21 @@
 | Magic Initiate | Guidance, Spare the Dying                  | Shield of Faith                                 |                                          |       |
 ## Bowlda
 
-| Source        | C   | 1                                                                  | 2                 |
-| ------------- | --- | ------------------------------------------------------------------ | ----------------- |
-| Default (6)   |     | Speak with Animals, Hail of Thorns, Cure Wounds, Animal Friendship | Aid, Spike Growth |
-| Gloom Stalker |     | Disguise Self                                                      | Rope Trick        |
+| Source          | C                                  | 1                                                                  | 2                 |
+| --------------- | --------------------------------- | ------------------------------------------------------------------ | ----------------- |
+| Default (6)                                          | Speak with Animals, Hail of Thorns, Cure Wounds, Animal Friendship | Aid, Spike Growth |
+| Gloom Stalker                                        | Disguise Self                                                      | Rope Trick        |
+| Druidic Warri Spare the Dying, Prestidigitation ng,  |                                                                    |                   |
 ## Dartfrogdash
 
-| Source         | C                             | 1                                              | 2                                                           | 3              |
-| -------------- | ----------------------------- | ---------------------------------------------- | ---------------------------------------------------------- | -------------- |
-| Default (9)    | Guidance, Shillelagh, TBD     | Faerie Fire, Goodberry, Ice Knife, Thunderwave Flaming Sphere, Pass without Trace, TBD (or any other lvl) ,  | 2 TBD          |
-| Magic Initiate | Sacred Flame, Spare the Dying | Purify Food and Drink                                                                                        |                |
-| Druidic        |                               | Speak with Animals                                                                                           |                |
-| Primal Order   | Poison Spray                  |                                                                                                              |                |
-| Wild Companion |                               | Find Familiar                                                                                                |                |
-| Circle Spells  | Shocking Grasp                | Sleep                                          | Mis                                                         | Lightning Bolt |
+| Source         | C                                      | 1                                              | 2                                  | 3                        |
+| -------------- | -------------------------------------- | ---------------------------------------------- | ---------------------------------- | ------------------------ |
+| Default (9)    | Guidance, Shillelagh, Prestidigitation | Faerie Fire, Goodberry, Ice Knife, Thunderwave | Flaming Sphere, Pass without Trace | 2 TBD (or any other lvl) |
+| Magic Initiate | Sacred Flame, Spare the Dying          | Purify Food and Drink                          |                                    |                          |
+| Druidic        |                                        | Speak with Animals                             |                                    |                          |
+| Primal Order   | Poison Spray                           |                                                |                                    |                          |
+| Wild Companion |                                        | Find Familiar                                  |                                    |                          |
+| Circle Spells  | Shocking Grasp                         | Sleep                                          | Misty Step                         | Lightning Bolt           |
 
 ## Gadnuk
 

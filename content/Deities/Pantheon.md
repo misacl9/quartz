@@ -24,7 +24,7 @@
 | Olidammara, the Laughting Rogue       | Trickery, luck                       | Gamblers, pranksters            | Laughing mask                     | Ysgard                       |
 | **Pelor**, the <br>Radiant            | Light, music<br>healing, prophecy    | Seers, healers, bards           | Sun                               | Elysium                      |
 | Pholtus of the Blinding Light         | Law                                  | Judges, lawyers                 | Solar eclipse                     | Arcadia                      |
-| **Rao**, the Mediator                 | Mediation, science                   | Mediators, scientists           | White, heart                      | Mount Celeste                |
+| **Rao**, the Mediator                 | Mediation, science                   | Mediators, scientists           | White, heart                      | Mount Celestia               |
 | Syrul Oathbreaker                     | Lies, Misery                         | Liars, traitors                 | Forked tongue                     | Gehenna                      |
 | Tharizdun, Eater of Worlds            | Oblivion, nothingness                | Nihilistic cultists             | Spiral rune                       | Imprisoned in<br>a demiplane |
 | Ulaa, the Bejeweled                   | Mercantilism, Invention, Underground | Gnomes, miners                  | Ruby                              | Arcadia                      |
@@ -32,6 +32,7 @@
 | Wee Jas, the Witch                    | Wild magic                           | Spellcasters                    | fireball                          | Acheron                      |
 |                                       |                                      |                                 |                                   | Hades                        |
 |                                       |                                      |                                 |                                   | Nine Hells                   |
+| Ninkasi                               | Brewing, beer                        | Craft brewers                   | Boot shaped beer mug              | Arborea                      |
 
 ### Safari State Pantheon
 
