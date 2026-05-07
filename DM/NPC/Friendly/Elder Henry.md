@@ -8,4 +8,4 @@ Tremors in right hand
 
 Muscular
 
-Retired [[Fighter]]
+Retired Fighter
