@@ -19,4 +19,10 @@
 - Town hall
 - Inn
 
+**Culture**: 
+**History**: 
+**Geography**: 
+**Monstrosities**: 
+**Worship**: 
+
 ![[devrim 1.png]]

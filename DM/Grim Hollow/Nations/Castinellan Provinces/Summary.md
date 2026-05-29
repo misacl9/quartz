@@ -1,0 +1,8 @@
+- Dark Fantasy: Psychological Horror and Religious Cults
+- Culture: Iberian
+- People: Dragonborn, Humans, Dwarves
+- History: 
+- Geography: Desert
+- Governance: Militant Theocracy, feuding nobility.
+- Worship: Arch Seraph Empyreus, Arch Daemon Beleth
+- Conflict: Arcanist Inquisition

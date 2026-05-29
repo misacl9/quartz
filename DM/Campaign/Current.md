@@ -3,7 +3,7 @@
 		- could discover the adults indulging on silver tabby
 		- maybe kidnapping
 		- maybe eavesdropping
-	- drug trafficking
+	- drug trade
 		- find a supplier and beat him up
 		- Two crime lords, Tabaxi matriarch, Dragonborn militant
 		- Two drugs, dragon's fang (spice crystals), Silver Tabby (dream leaves)
@@ -18,13 +18,17 @@
 	- human
 	- TBD bowlda
 
-about 1 am on moresday
 
-progression
-- hurt and burt are gruff voices
-- Sushka - normal voice, but with pauses built in
-- killed everyone, succesful search found all drugs, found letter indicating where to resupply (somewhere in scuteside), I think they burned the shed down (so no evidence)
-- The dragon fang's will assume it was the silver tabby and will either make their own attack, kidnap the leonin's daughter for political leverage
+Current thread
+about 1 am on moresday. I will present party with choice of senator party or drug deal.
+
+The senator party secretly engages in drug, but are behind on certain agreements. The Tabaxi matriarch plans to strike and kidnap his daughter. 
+
+The drug deal typically delivers drugs to the custodians of the ivory towers. They receive information in exchange on the habits of the political residents for blackmail or assassination.
+
+secrets
+- Senator and matriarch affair (fleshen out Cleo)
+- Heisenberg, albino tortle
 
 
 ## Potential Characters

@@ -1,0 +1,6 @@
+- **Culture**: Strong military tradition.
+- **History**: Began as separate warring tribes.
+- **Geography**: Marshes and swamplands.
+- **Monstrosities**: Corrupted Warriors
+- **Worship**: 
+- **Conflict**: 

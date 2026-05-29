@@ -19,3 +19,9 @@ Feature: new residence of White Wyrmling
 - White Dragon Wyrmling
 
 **Noteworthy places**
+
+**Culture**: 
+**History**: 
+**Geography**: 
+**Monstrosities**: 
+**Worship**: 

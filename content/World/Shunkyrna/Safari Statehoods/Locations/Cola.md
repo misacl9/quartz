@@ -21,4 +21,10 @@
 - The Manes
 - Faunis' Temple
 
+**Culture**: 
+**History**: 
+**Geography**: 
+**Monstrosities**: 
+**Worship**: 
+
 ![[cola.png]]

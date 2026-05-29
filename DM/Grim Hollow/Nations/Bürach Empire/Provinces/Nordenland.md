@@ -1,0 +1,6 @@
+- **Culture**: Intellectual epicenter of the empire, engaged in magic and philosophy.
+- **History**: 
+- **Geography**: Regular floods and storms.
+- **Monstrosities**: Corrupted Flora
+- **Worship**: 
+- **Conflict**: 

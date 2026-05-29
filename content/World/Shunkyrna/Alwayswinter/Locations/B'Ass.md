@@ -18,3 +18,9 @@
 - Port
 - Bar/Inn
 - Dogsled shop
+
+**Culture**: 
+**History**: 
+**Geography**: 
+**Monstrosities**: 
+**Worship**: 

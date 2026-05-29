@@ -1,0 +1,6 @@
+- **Culture**: Mercantile capital and religious heart of Bürach 
+- **History**: Amassed wealth through lumber. Aurelia's chosen built a holy site to her in the land. In recent times the emperor now prefers the mercantile noblemen's counsel to the church's leading to a decline in faith.
+- **Geography**: Forested region
+- **Monstrosities**: Humanoid mutants
+- **Worship**: particular devotion to Aurelia
+- **Conflict**: Hearthkeeper church vs Säullan Council

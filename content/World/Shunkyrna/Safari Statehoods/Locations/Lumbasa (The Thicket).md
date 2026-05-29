@@ -24,4 +24,10 @@
 - Scute National Library
 - Jean Hippo Hospital
 
+**Culture**: 
+**History**: 
+**Geography**: 
+**Monstrosities**: 
+**Worship**: 
+
 ![[lumbasa.png]]
