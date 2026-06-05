@@ -1,0 +1,6 @@
+- **Culture**: Estonia, unrestrained magical study
+- **History**: Founded by the young diviner Lissandra, rich history of resistance and independence.
+- **Geography**: Northern cliffs, 
+- **Monstrosities**: 
+- **Worship**: 
+- **Conflict**: Commoners distrust of magic, Order of Dawn and Solar Grove clash with magocracy.

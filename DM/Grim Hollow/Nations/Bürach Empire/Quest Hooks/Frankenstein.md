@@ -1,0 +1,5 @@
+- **Setting**: Stehlenwald
+- **Context:** The ambitious student has lost one of his constructs. He wants the failed experiment killed, but is the experiment really a failure?
+- **Motivation:** 
+- **Player engagement**: Take out the construct and retrieve it's components
+- **Possible endings**: Kill the construct for the student, kill the student for the construct

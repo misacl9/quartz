@@ -1,0 +1,5 @@
+- **Setting**: Mount Vengeance
+- **Context:** Mt. Vengeance has increased in activity, releasing waves of daemons and primordials to the surface. A professor is paying well for adventurers.
+- **Motivation:** Profit
+- **Player engagement**: Explore the labyrinthine dungeon of Mt. Vengeance and uncover the source of it's behavior.
+- **Possible endings**: Party dies exploring, Party discovers a portal to primordial planes, Party discovers an Arch Daemon building an army, Party discovers an imprisoned Aether Kindred.

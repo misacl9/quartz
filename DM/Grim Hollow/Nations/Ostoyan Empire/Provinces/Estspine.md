@@ -1,0 +1,6 @@
+- **Culture**: Polish, focused on trade and exporting lumber, produce, and minerals.
+- **History**: The first province, symbol of resistance, independence, and pride. Now under heavy political pressure as the Bürach Empire, Crimson Court, and Raevo Rebellion all wish to control it.
+- **Geography**: Forest by the mountainside.
+- **Monstrosities**: Traditional military
+- **Worship**: 
+- **Conflict**: Factions fighting for control of the province.

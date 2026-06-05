@@ -1,0 +1,8 @@
+| Name and Epithet | Domain   | Worshipers      | Symbol | Home Plane |
+| ---------------- | -------- | --------------- | ------ | ---------- |
+| Tormach          | Violence | Cult of Tormach |        |            |
+|                  |          |                 |        |            |
+|                  |          |                 |        |            |
+|                  |          |                 |        |            |
+|                  |          |                 |        |            |
+|                  |          |                 |        |            |

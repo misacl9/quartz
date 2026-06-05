@@ -1,0 +1,16 @@
+- **Setting**: Ivory Towers underworks
+- **Context:** The daughter of a senator has been kidnapped, police believe they haven't left the building yet but have yet to locate them.
+- **Motivation:** Political favor, information, wealth
+- **Player engagement**: Retrieve the abducted daughter through fighting or negotiating
+- **Possible endings**: Simply kill the abductor, encounter the Matriarch (fight or negotiate), side with the Matriarch (trick or extort the senator)
+- **Leads**
+	- Extract info from Senator (DC 10 admits this isn't random, 15 admits this is likely a personal issue with the Silver Tabby, 20 admits this is with the Matriarch herself, 25 admits to prior relations with the Matriarch)
+	- Explore Elevator (DC 15 maintenance levels were accessed)
+	- Wait for Chemist results (DC 15 sedative is professionally made, 18 components match materials associated with Silver Tabby activity, DC 20 sedative shows design characteristics of Tortle)
+	- Chance of Dragon Fang Gang being captured
+- **Encounters** :
+	- Talk with the Senator
+	- Forensics deduce drug manufactuer
+	- The Maestro "Sumeni" (85/110), used up Tasha's Hideous Laughter
+	- Batagur White (Schrodinger) Custodial janitor, secret dragon fang manufacturer with cleaning supplies 
+	- The Matriarch "Chini"

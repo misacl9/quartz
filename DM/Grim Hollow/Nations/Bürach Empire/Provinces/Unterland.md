@@ -1,6 +1,7 @@
 - **Culture**: Strong military tradition.
-- **History**: Began as separate warring tribes.
+- **History**: Began as separate warring tribes. Then the Unters rose to power, not by brute strength but through cunning and strategy
 - **Geography**: Marshes and swamplands.
+- **Locations of Interest**: 
 - **Monstrosities**: Corrupted Warriors
-- **Worship**: 
-- **Conflict**: 
+- **Worship**: Particular devotion to Maligant. Now split between the Seraph Empyreus and the Daemon Tormach.
+- **Conflict**: Ostoya Scare, Cult of Tormach

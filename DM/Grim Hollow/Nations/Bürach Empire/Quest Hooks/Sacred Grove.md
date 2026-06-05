@@ -1,0 +1,5 @@
+- **Setting**: Nordenland woods
+- **Context:** Villagers are sacrificing humans to the fey. The sacrifices are not killed but instead are warped into wooden abominations by a Puck. Without their fey patron, the village will die away.
+- **Motivation:** Save lives, profit
+- **Player engagement**: Stop the ritual sacrifices to the fey of the woods.
+- **Possible endings**: Kill the villagers, kill the Puck, negotiate with the Puck

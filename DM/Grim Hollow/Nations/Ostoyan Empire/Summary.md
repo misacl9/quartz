@@ -1,8 +1,8 @@
 - Dark Fantasy: Gothic Horror
 - Culture: Slavic
-- People: Human, Vampire
-- History: A human empire built in the shadow of an undead one. Now split between the Crimson Court and the Raevan Rebellion.
-- Geography: 
-- Governance: Vampire, TBD
+- People: Human, Arisen, Dhampir
+- History: A human empire built in the shadow of an undead one. Now split between the Crimson Court and the Raevan Rebellion that seeks to free the peoples from the courts blood tax.
+- Geography: No sun, dense forests, swamplands, harsh mountains
+- Governance: Crimson Court, An assembly of Vampiric nobles vying for dominance.
 - Worship: Historically Four Divines, now Arch Seraphs
 - Conflict: Vampires 

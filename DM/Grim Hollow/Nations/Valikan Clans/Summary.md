@@ -1,6 +1,6 @@
 - Dark Fantasy: Survival Horror
 - Culture: Norse
-- People: Human, Orcs
+- People: Human, Orcs, Grudgels
 - History: A land once belonging to the primordials now ruled by warring clans. They fight out of necessity, so that the bloodshed may appease the Great Wyrm. Or so they believe.
 - Geography: Artic tundra
 - Governance: Clans

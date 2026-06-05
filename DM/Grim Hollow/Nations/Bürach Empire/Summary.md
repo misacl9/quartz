@@ -1,6 +1,6 @@
 - **Dark Fantasy**: Lovecraftian Horror
 - **Culture**: Germanic
-- **People**: Human, Dwarves
+- **People**: Human, Dwarves, Gnomes, Dreamers, Disembodied
 - **History**: A formidable nation that once nearly ruled the world, but is now a crumbling shell of it's former self.
 - **Geography**: Forested mountains, marshlands, coastlines
 - **Governance**: "Bloodline" emperor

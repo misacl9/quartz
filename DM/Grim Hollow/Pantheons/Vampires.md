@@ -1,1 +1,0 @@
-Immortals worshipped by cults.

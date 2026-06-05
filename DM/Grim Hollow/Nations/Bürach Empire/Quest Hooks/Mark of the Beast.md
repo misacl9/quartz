@@ -1,0 +1,5 @@
+- **Setting**: Anywhere
+- **Context:** The Celestial Gate have penetrated the higher echelons of the empire. They need to be weeded out and their plan uncovered.
+- **Motivation:** Profit
+- **Player engagement**: Investigate the activities of the Celestial Gate cult
+- **Possible endings**: Hearthkeeper church falls, Celestial Gate agents exposed, Prophet Sommerkin discovered.

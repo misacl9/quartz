@@ -1,0 +1,5 @@
+- **Setting**: fortress near Olstenburn in Unterland
+- **Context:** A warlord claims to wield a sacred artifact and wishes to depose the current Emperor
+- **Motivation:** For the kingdom! Desire to take the sword, profit
+- **Player engagement**: Take out the Usurper or the Emperor
+- **Possible endings**: Quash the rebellion with the Lord General, negotiate with the Säullan Council to acquire the artifact and verify it's authenticity, stealthily assassinate the usurper, kill the emperor.

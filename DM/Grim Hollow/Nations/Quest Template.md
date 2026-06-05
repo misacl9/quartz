@@ -1,0 +1,5 @@
+- **Setting**: 
+- **Context:** 
+- **Motivation:** 
+- **Player engagement**: Negotiate, Protect, Retrieve, Run a Gauntlet, Sneak, Stop/prevent, Take out, Investigate
+- **Possible endings**:

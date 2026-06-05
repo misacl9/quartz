@@ -1,0 +1,6 @@
+- **Culture**: Ukrainian, the breadbasket of Ostoya
+- **History**: Simple farm folk
+- **Geography**: Farmland and large rivers
+- **Monstrosities**: 
+- **Worship**: 
+- **Conflict**: People without ambition, weary of outsiders.

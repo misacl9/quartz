@@ -9,7 +9,7 @@ But then the Aether Kindred emerged from the void and ruptured the heavens and d
 The [[DM/Grim Hollow/Nations/Valikan Clans/Summary|Valikan]] claim that the world consisted of only the primordials and their ruler Gormadraug, the Great Wyrm. The mortal realm itself was formed from the corpse of the Great Wyrm when Kentigern vanquished him.
 
 ### Hymn of Viduami
-In [[DM/Grim Hollow/Nations/Ostoyan Empire/Summary|Ostoya]], people talk about a death god, older than creation, who was entombed by the others gods. When early mortals discovered the tomb of this god, they imparted their divine essence into the mortals, creating immortal yet dead creatures, the first [[Vampires]].
+In [[DM/Grim Hollow/Nations/Ostoyan Empire/Summary|Ostoya]], people talk about a death god, older than creation, who was entombed by the others gods. When early mortals discovered the tomb of this god, they imparted their divine essence into the mortals, creating immortal yet dead creatures, the first [[Crimson Court]].
 
 ## Early Mortals
 ### Twilight of the Dreamers
@@ -19,7 +19,7 @@ Possibly the first peoples of the mortal realm. Their society was lost to an unk
 Archfey (or fallen seraphs depending on who you ask) cultivated Caer Neiada and the ulufey settle the land.
 
 ### Fall of Ember Cairn
-The ancestral home of the [[DM/Grim Hollow/Species/Dragonborn|dragonborn]] is destroyed. Survivors scatter across Etharis as nomads.
+The ancestral home of the [[DM/Grim Hollow/Heritages/Dragonborn|dragonborn]] is destroyed. Survivors scatter across Etharis as nomads.
 
 ### Kingdoms of Stone
 The dwarves are the first to build fortresses and kingdoms in the very heart of Etharis.
@@ -50,7 +50,7 @@ Emperor Indorius I is ordained by the Hearthkeepers as the chosen of the [[DM/Gr
 Emigrants from the empire travel east discovering remains of an ancient civilization and begin to settle there, forming what would later become Ostoya.
 
 ### Castinellan Peninsula
-The empire reaches to the southeast corner of Etharis and discovers the remains of a [[DM/Grim Hollow/Species/Dragonborn|dragonborn]] kingdom
+The empire reaches to the southeast corner of Etharis and discovers the remains of a [[DM/Grim Hollow/Heritages/Dragonborn|dragonborn]] kingdom
 
 ### Founding of Morencia
 Refuges attempting to escape the subjugation of the Bürach Empires take to a hidden island in the southern sea, establishing the haven of Morencia.

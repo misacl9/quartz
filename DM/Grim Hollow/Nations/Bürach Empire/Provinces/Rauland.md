@@ -1,6 +1,8 @@
 - **Culture**: Skilled craftsmen and technological inventors.
-- **History**: 
+- **History**: The Dwarves built great fortresses and the Gnomes developed engineering feats. Eventually humans starved them out in a siege, though they still retain some autonomy.
 - **Geography**: Mountains
+- **Locations of Interest**:
+	- City of Stehlenwald - A tiered city of artisans and clockwork contraptions with underground works
 - **Monstrosities**: Monstrous Beasts
-- **Worship**: 
-- **Conflict**: 
+- **Worship**: Particular devotion to Galt
+- **Conflict**: Exhausted resources, no walls for psychological evils.

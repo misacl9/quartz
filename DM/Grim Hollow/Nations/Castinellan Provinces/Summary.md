@@ -1,6 +1,6 @@
 - Dark Fantasy: Psychological Horror and Religious Cults
 - Culture: Iberian
-- People: Dragonborn, Humans, Dwarves
+- People: Humans, Dwarves, Dragonborn
 - History: 
 - Geography: Desert
 - Governance: Militant Theocracy, feuding nobility.

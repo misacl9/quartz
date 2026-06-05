@@ -1,6 +1,7 @@
-- **Culture**: Intellectual epicenter of the empire, engaged in magic and philosophy.
-- **History**: 
-- **Geography**: Regular floods and storms.
+- **Culture**: Intellectual epicenter of the empire, engaged in magic and philosophy. Culturally diverse and blends with Valikan traditions.
+- **History**: The people used to commune with nature and regularly practice magic. But this practices were discouraged or banned under the empire. Now the land is seeing a return to the old traditions.
+- **Geography**: Regular floods and storms. Extreme weather. 
+- **Locations of Interest**: 
 - **Monstrosities**: Corrupted Flora
-- **Worship**: 
-- **Conflict**: 
+- **Worship**: Particular devotion to Ulmyr, historically worshiped primal spirits.
+- **Conflict**: The empire seeks to regain Nordenland, the people are culturally divided on how to approach magic, druidic circles are persecuted, Mount Vengeance 
