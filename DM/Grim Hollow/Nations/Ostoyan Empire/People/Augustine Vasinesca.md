@@ -1,11 +1,11 @@
 **Presentation**: Ecoukrylo, charming
 
-**Vocalization**: 
+**Vocalization**: Chittering
 
 **Occupation**: Countess of Terinima
 
-**Location**: 
+**Location**: Terinima
 
-**Motivation**: 
+**Motivation**: Purveyor of peculiar and decadent blo
 
-**Connection**: 
+**Connection**: Crimson Court member and advises Grand Duke on food production and supply

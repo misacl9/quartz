@@ -1,11 +1,11 @@
-**Presentation**: Strigoi vampire
+**Presentation**: Strigoi, hideous, bulging yellow yes, needle teeth in a lipless mouth, carries a cane.
 
 **Vocalization**: 
 
 **Occupation**: Viscount of Estspine, Crimson Court
 
-**Location**: Estspine
+**Location**: Fallowheart, Estspine
 
-**Motivation**: Wants to prove himself, but ultimately falls to his monstrous appetite.
+**Motivation**: Demands submission and worship out of insecurity and fear. If he can't temper his monstrous appetite, he may lose Fallowheart.
 
 **Connection**: The least respected member of the vampire court

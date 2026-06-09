@@ -1,0 +1,5 @@
+- **Setting**: In a bog in Umbroi
+- **Context:** Children have been disappearing into the Mire. One kid knows where they went and is sent with the party.
+- **Motivation:** Payment
+- **Player engagement**: Stop any further disappearance.
+- **Possible endings**: banish the spirits killing children, give peace to the spirits, discover a Riven conspiracy.

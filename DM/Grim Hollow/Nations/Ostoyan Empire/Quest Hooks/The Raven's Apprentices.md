@@ -1,0 +1,5 @@
+- **Setting**: the Ravencourt Sanctuary
+- **Context:** The party themselves are invited to attend at the Ravencourt Sanctuary to develop as people and mages.
+- **Motivation:** Power, introspection
+- **Player engagement**: Run a gauntlet
+- **Possible endings**: Develop as mages, become scarred by the Sanctuary, become villains.

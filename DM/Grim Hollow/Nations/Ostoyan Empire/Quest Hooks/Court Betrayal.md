@@ -1,0 +1,5 @@
+- **Setting**: At a Soman Gala arranged by Katalina Vulpescu
+- **Context:** 
+- **Motivation:** Payment, betrayal
+- **Player engagement**: Take out Langkirk Warlow
+- **Possible endings**: Poison target's drink, poison human and feed to target, poison patron, poison any Crimson Court member.

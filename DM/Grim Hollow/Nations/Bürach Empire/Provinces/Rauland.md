@@ -2,7 +2,9 @@
 - **History**: The Dwarves built great fortresses and the Gnomes developed engineering feats. Eventually humans starved them out in a siege, though they still retain some autonomy.
 - **Geography**: Mountains
 - **Locations of Interest**:
-	- City of Stehlenwald - A tiered city of artisans and clockwork contraptions with underground works
+	- **City of Stehlenwald** - A tiered city of artisans and clockwork contraptions with underground works
+	- Graffendam - a marvel of engineering and magic, a special dam that holds perpetually chilled water.
+	- Castle Martorius - A magical moving castle where an archmage dwells, he offers his counsel to the Hearthkeepers and Säullan Council, though no one knows his true intentions.
 - **Monstrosities**: Monstrous Beasts
 - **Worship**: Particular devotion to Galt
 - **Conflict**: Exhausted resources, no walls for psychological evils.

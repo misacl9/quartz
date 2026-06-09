@@ -2,5 +2,9 @@
 - **History**: Founded by the young diviner Lissandra, rich history of resistance and independence.
 - **Geography**: Northern cliffs, 
 - **Monstrosities**: 
+- **Locations of Interest**:
+	- Ravencourt Sanctuary - An arcane island hidden behind the mistwall, only approachable by mages invited by name.
+	- Solar Grove - the last place of light in all of Ostoya, illuminated by the Solarwood tended to by druids in preparation for the Darkfall.
+	- **Free City of Malkovia** - 
 - **Worship**: 
 - **Conflict**: Commoners distrust of magic, Order of Dawn and Solar Grove clash with magocracy.

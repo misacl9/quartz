@@ -4,5 +4,5 @@
 - History: A human empire built in the shadow of an undead one. Now split between the Crimson Court and the Raevan Rebellion that seeks to free the peoples from the courts blood tax.
 - Geography: No sun, dense forests, swamplands, harsh mountains
 - Governance: Crimson Court, An assembly of Vampiric nobles vying for dominance.
-- Worship: Historically Four Divines, now Arch Seraphs
+- Worship: Historically Four Divines, now Arch Seraph Solyma
 - Conflict: Vampires 

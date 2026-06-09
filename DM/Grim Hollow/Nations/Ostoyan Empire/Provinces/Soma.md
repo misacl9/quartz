@@ -1,0 +1,8 @@
+- **Culture**: Wealth center, cutthroat people
+- **History**: Great divide of wealth, bliss epidemic
+- **Geography**: Open plains and a coastal border, but scarred by fissures.
+- **Monstrosities**: Ghouls
+- **Locations of Interest**:
+	- The City Below - The necropolis below Ostoya. Ruins of an ancient civilization. Presumed dwelling place of The Viduami.
+- **Worship**: 
+- **Conflict**: Wild ghouls crawling up the chasms

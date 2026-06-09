@@ -1,0 +1,5 @@
+- **Setting**: The Burrowfell Mines in Bezcodru
+- **Context:** The miners have breached the City Below and undead now wander the mine. Exterminate the monsters so ore production can resume or else the Crimson Court will collect in blood instead.
+- **Motivation:** Payment, treasures
+- **Player engagement**: Take out the monsters and explore the City Below.
+- **Possible endings**: Succeed and have an audience with Mihael, fail and miners die.

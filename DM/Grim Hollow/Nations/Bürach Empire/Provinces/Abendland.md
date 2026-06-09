@@ -2,6 +2,7 @@
 - **History**: Amassed wealth through lumber. Aurelia's chosen built a holy site to her in the land. In recent times the emperor now prefers the mercantile noblemen's counsel to the church's leading to a decline in faith.
 - **Geography**: Forested region
 - **Locations of Interest**: 
+	- Walstein - a town razed by magic. Now the dwelling place of monstesr and vagrants. Serves as training grounds for the army and Erlefurt mages.
 - **Monstrosities**: Humanoid mutants
 - **Worship**: particular devotion to Aurelia
 - **Conflict**: Hearthkeeper church vs Säullan Council 

@@ -2,5 +2,7 @@
 - **History**: The first province, symbol of resistance, independence, and pride. Now under heavy political pressure as the Bürach Empire, Crimson Court, and Raevo Rebellion all wish to control it.
 - **Geography**: Forest by the mountainside.
 - **Monstrosities**: Traditional military
+- **Locations of Interest**:
+	- **Fallowheart** - A city with strategic value to the Bürach Empire, Crimson Court, and Raevo Rebellion. it has spent time under each groups banner.
 - **Worship**: 
 - **Conflict**: Factions fighting for control of the province.

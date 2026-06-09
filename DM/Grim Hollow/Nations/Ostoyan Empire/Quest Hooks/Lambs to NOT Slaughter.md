@@ -1,0 +1,5 @@
+- **Setting**: Terinima
+- **Context:** A Shepard needs guards to protect his 600 sheep from monsters and bandits as he travels to the capital to sell them.
+- **Motivation:** Payment
+- **Player engagement**: Escort the Shepard and try to keep all his sheep alive.
+- **Possible endings**: >70% extra pay, normal pay, <40% less pay, Shepard dies.
