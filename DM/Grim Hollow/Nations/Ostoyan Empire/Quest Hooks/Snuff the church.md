@@ -1,0 +1,5 @@
+- **Setting**: Fallowheart
+- **Context:** The Viscount wishes the church to be destroyed by third party so as to avoid inciting rebellion.
+- **Motivation:** Power, money
+- **Player engagement**: Negotiate, Protect, Retrieve, Run a Gauntlet, Sneak, Stop/prevent, Take out, Investigate
+- **Possible endings**: Destroy the church, someone becomes a [[Vampire]].

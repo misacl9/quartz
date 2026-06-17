@@ -2,4 +2,4 @@
 - **Context:** A Valikan wanders into the grove, fleeing from vampires that killed his crew. The druids must prevent vampires from discovering the grove.
 - **Motivation:** Altruism
 - **Player engagement**: Protect the Valikan on his way back home for reinforcements.
-- **Possible endings**: Successfully bring the Valikan home, kill the vampires, Valikan dies, vampires discover the grove.
+- **Possible endings**: Successfully bring the Valikan home, kill the vampires, Valikan dies, vampires discover the grove. Someone becomes a [[Fey]].

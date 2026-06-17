@@ -2,4 +2,4 @@
 - **Context:** A group of arisen called the Canary's Lament have been digging in the old tunnels. Their goal is to create a tangible god to worship.
 - **Motivation:** Profit, public safety
 - **Player engagement**: Investigate the activities of a group and decide their fate.
-- **Possible endings**: Killing the cultists and powering the machine, leaving the cult and letting their influence grow.
+- **Possible endings**: Killing the cultists and powering the machine, leaving the cult and letting their influence grow. 

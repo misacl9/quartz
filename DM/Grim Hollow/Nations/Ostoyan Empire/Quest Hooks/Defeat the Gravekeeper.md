@@ -1,0 +1,5 @@
+- **Setting**: Fallowheart
+- **Context:** Viscount Warlow has made it illegal to attack the Gravekeeper as it represents the power of necrotic magic, Sister Abigail secretly offers a reward for anyone who can end the Gravekeepers curse of eternal servitude.
+- **Motivation:** Money, moral, repute
+- **Player engagement**: Take out the curse and end the Gravekeeper
+- **Possible endings**: Break the curse, betray the sister. Someone becomes [[Specter]] or [[Lich]].

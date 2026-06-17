@@ -1,0 +1,85 @@
+- Based on the Control/Alan Wake universe, psionics and aberrations
+- **Setting**: Within the Oldest House, a liminal office space used by the FBC, unnoticed by outsiders due to a perception filter.
+- **Context:** If one-shot, some serious break-out has occurred and the FBC needs to re-contain the infection (Resonance, Mold, Astral, Shadow, Parautilitarian). Or just a couple of guys doing cthullu-esque office shenanigans.
+- **Motivation:** Work the 9-5 grind and don't die to any thresholds
+- **Player engagement**: Executive, Maintenance, Containment, Research, and Investigations. 
+
+Sectors
+- Executive
+	- Dead Letters
+	- Communications
+	- Nostalgia
+- Maintenance
+	- Black Rock Quarry
+	- NSC Power Plant
+- Containment
+	- Panopticon
+	- AWE study area
+	- Security (Guards, Rangers, Troops, Demolition, Firebreaker)
+- Research
+	- Parakinesiology
+	- Parapsychology
+	- Ritual Division
+	- Dimensional Research
+- Investigations
+	- Altered World Events
+	- Paracriminals
+
+Adaptations
+- Dwarf -> Maintenance
+- Gnomes -> Research
+- Elves -> Research
+
+
+Subclasses
+- Armorer
+- Artillerist
+- Battle smith
+- Fracture
+- Primal Spirit
+- World Tree -> Oldest House flavor
+- Adventure
+- Glamour
+- Lore
+- Eldritch
+- Knowledge
+- Inquisition -> AWE Response
+- Light
+- Trickery
+- Purification
+- Entropy
+- Mutation
+- Stars
+- Land -> Oldest House flavor
+- Sea
+- Eldritch Knight
+- Nightwatcher -> Ranger/AWE
+- Psi Warrior
+- Elements
+- Leaden Crown
+- Regret
+- Shadow
+- Noble Genies
+- Pestilence
+- Fey Wanderer
+- Gloom Stalker
+- Hollow Warden
+- Arcane Trickster
+- Misfortune Bringer
+- Soulknife
+- Aberrant
+- Apocalypse -> Dead Letters
+- Clockwork
+- Shadow
+- Spellfire
+- Wild Magic
+- Archfey
+- Celestial
+- Coven
+- Great Old One
+- Parasite
+- Abjurer -> Control Points/stabilize the Oldest House
+- Daemonologist
+- Diviner
+- Evoker
+- Illusionist

@@ -8,10 +8,10 @@
 | College of Adventureres      | Grudgels    |            |                        |
 | Wrathful Dead                | Ogresh      |            |                        |
 Advise against
+- Wrathful Dead
 - Inquisition Domain
-- Living Crucible
-- Leaden Crown
 - Warrior of Pride
+- Parasite
 
 Subclass
 - Reanimator (Frankenstein)

@@ -2,4 +2,4 @@
 - **Context:** A strange urchin carries with him an eye that brings luck but horrific visions at night and aberrant horrors at day.
 - **Motivation:** Altruism, desire to keep the eye, profit
 - **Player engagement**: Protect the urchin on his travels.
-- **Possible endings**: Urchin dies in the town, Urchin dies on the journey, Urchin is delivered to the Hearthkeepers, Urchin is delivered to the Emperor, Urchin is delivered to archmage Martorius
+- **Possible endings**: Urchin dies in the town, Urchin dies on the journey, Urchin is delivered to the Hearthkeepers, Urchin is delivered to the Emperor, Urchin is delivered to archmage Martorius, someone transforms into [[Aberrant Horror]]

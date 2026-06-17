@@ -2,4 +2,4 @@
 - **Context:** Walstein is now overrun by aberrations, the mages of Erlefurt regularly visit to gain field training and search for lost artifacts of magic. The escorted mage seems to have an otherworldly patron calling out to him.
 - **Motivation:** Profit
 - **Player engagement**: Protect a budding mage on his pilgrimage to understand the destructive power of magic.
-- **Possible endings**: mage killed by a gnoll warband, party discovers a lost sacred artifact or any other arcane object, party discovers the imprisoned patron (mage may or may not turn).
+- **Possible endings**: mage killed by a gnoll warband, party discovers a lost sacred artifact or any other arcane object, party discovers the imprisoned patron (mage may or may not turn). Someone transforms into an [[Aberrant Horror]]

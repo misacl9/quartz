@@ -1,0 +1,5 @@
+- **Setting**: Fallowheart
+- **Context:** The Raevo and Soman armies camp outside the city, the building tension may break any ties of kinship. Sister Abigail whishes to avoid this by having the Viscount assassinated.
+- **Motivation:** Money, repute, morals
+- **Player engagement**: Take out the viscount
+- **Possible endings**: Take out the viscount, someone becomes [[Vampire]] or [[Seraph]]

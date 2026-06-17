@@ -1,0 +1,5 @@
+- **Setting**: Grisham's Tower at Fallowheart
+- **Context:** Criminals were experimented on at Fallowheart using Shadowsteel, now the corruption has affected everyone in the tower. The Court and church are both interested in the resources and arcane knowledge the tower holds.
+- **Motivation:** Money, knowledge, repute
+- **Player engagement**: Retrieve the resources in the tower. 
+- **Possible endings**: Assist Court, assist church, someone transforms into [[Shadowsteel Ghoul]].

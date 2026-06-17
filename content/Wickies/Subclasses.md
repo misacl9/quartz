@@ -31,11 +31,11 @@
 - Devourer (You are what you eat)
 - Occultist (I used the magic to destroy the magic)
 - Trapper (MacGyver)
-# Paladin
+# ~~Paladin~~
 - Pestilence (The Ugly Barnacle - Patrick Star)
 - Slaughter (Violence is the question and the answer is yes)
 - Zeal (Gatekeep the filthy casuals)
-# Ranger
+# ~~Ranger~~
 - Green Reaper (Poison made OP)
 - Primordial Archer (Shoot the elements)
 - Vermin Lord (Conor)

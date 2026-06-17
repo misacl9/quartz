@@ -5,6 +5,6 @@
 - **Locations of Interest**:
 	- Ravencourt Sanctuary - An arcane island hidden behind the mistwall, only approachable by mages invited by name.
 	- Solar Grove - the last place of light in all of Ostoya, illuminated by the Solarwood tended to by druids in preparation for the Darkfall.
-	- **Free City of Malkovia** - 
+	- **Free City of Malkovia** - A city with a history of being an international market, now split between it's identity as an independent city and it's Ostoyan allegiance to either side.
 - **Worship**: 
 - **Conflict**: Commoners distrust of magic, Order of Dawn and Solar Grove clash with magocracy.
