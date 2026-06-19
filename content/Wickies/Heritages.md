@@ -59,7 +59,7 @@ All heritages have 8 traits to empower them in combat, exploration, and roleplay
 	- Keen Survivor
 	- Skill Prowess
 
-# Uncommon
+# Rare
 - Dreamers (You're either overcaffeinated or sleepy no in between)
 	- Quick Initiative
 	- Stalwart Reserves
@@ -100,7 +100,7 @@ All heritages have 8 traits to empower them in combat, exploration, and roleplay
 	- Commanding Insight
 	- Persuasive Knack
 
-# Rare
+# Eldritch
 - Accursed (were-whatever)
 	- Freeform trait selection
 

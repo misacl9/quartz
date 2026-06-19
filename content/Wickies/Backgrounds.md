@@ -1,4 +1,4 @@
-
+ 
 # Trading Company
 - **Ability scores**: Int. Wis. Cha.
 - **Proficiencies**: History, Persuasion, Forgery Kit
