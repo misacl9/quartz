@@ -83,11 +83,27 @@ Heritages
 - Wulven (Werewolf)
 
 
-Backgrounds
-- Trading Company
-- Antiquarian
-- Beast Hunter
-- Beggar
+# Trading Company
+- **Ability scores**: Int. Wis. Cha.
+- **Proficiencies**: You're a skilled merchant, proficient in history and persuasion, and a forgery kit for more unsavory deals.
+- **Feat**: Your well versed on magical objects and can quickly intuit it's properties without spells or rest
+
+# Antiquarian
+- **Ability scores**: Dex. Con. Int.
+- **Proficiencies**: You've got an eye for artifacts of a unique nature, proficient in arcana and history, and a tinker's kit for navigating ruins.
+- **Feat**: Your particular focus in history has lead you to acquire proficiency with certain skills and tools.
+
+# Beast Hunter
+- **Ability scores**: Str. Dex. Int.
+- **Proficiencies**: You're your communities source of meat and furs, proficient in animal handling and survival, and a leatherworker's tools for tanning hides.
+- **Feat**: Hunting in nature has made you highly perceptive, instantly aware of creatures within 10 ft of you and advantageous on perceiving your target through sound or smell.
+
+# Beggar
+- **Ability scores**: Str. Dex. Wis.
+- **Proficiencies**: You learned to get by on the good will of others and when that's no longer free you have information ready to trade, proficient in insight and persuasion, and a disguise kit to get in places you shouldn't be.
+- **Feat**: Making the best with what you have, you shake off exhaustion with any rest you can get and have attuned your observations to be advantageous. 
+
+
 - Chapter Knight
 - Courtier
 - Disgraced Raider

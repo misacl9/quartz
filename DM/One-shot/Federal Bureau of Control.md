@@ -30,6 +30,22 @@ Adaptations
 - Gnomes -> Research
 - Elves -> Research
 
+- Planes -> Thresholds (to other dimensions)
+	- Astral
+	- Dark place
+	- Slide-projector
+	- Mold
+- Magic items -> Altered items (Objects of Power if from Astral Plane)
+	- Alters the physical space or exerts a kinetic force
+	- Exercises a psychological or psychic effect
+	- Auditory effect in conjunction with physical or psychic effect
+	- Biological effect such as disease
+	- Unclassifiable effects
+- Magic users -> Parautilitarians 
+	- Divine -> The Board
+	- Primal -> Foundation
+	- Arcane -> Resonance in general?
+- The Weave -> Resonance
 
 Subclasses
 - Armorer
