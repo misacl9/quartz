@@ -27,6 +27,7 @@
 |                                       |                                      |                                 |                                   | Hades                        |
 |                                       |                                      |                                 |                                   | Nine Hells                   |
 | Ninkasi                               | Brewing, beer                        | Craft brewers                   | Boot shaped beer mug              | Arborea                      |
+| Talamare                              | The sea, rhythm                      | Sailors, musicians              | Symmetric waves around a globe    | Elysium                      |
 
 
 
